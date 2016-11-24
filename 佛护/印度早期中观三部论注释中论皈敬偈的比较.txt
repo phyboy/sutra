@@ -1,0 +1,371 @@
+印度早期中觀三部論注釋《中論》皈敬偈的比較
+鄭寶蓮    法光佛學研究所
+　　　中觀宗學者以龍樹所造《中論》做為根本的核心思想，又因詮釋、解讀、分析《中論》之不同，不僅在印度因思想歧異而有不同中觀宗的出現，並且中國與西藏也先後傳譯了中觀思想的相關論著，從而在當地也衍生了有關《中論》的注釋文獻。在中國佛教的領域裡，隨著鳩摩羅什的傳譯與口授，早在西元五世紀初已將印度早期中觀思想傳入中國。西藏中觀思想，清辨（BhAvaviveka，ca. 490-570）的中觀學在第八、九世紀前弘期時，已為西藏學者所熟悉。我們可以說在公元十世紀以前，以龍樹《中論》為本的中觀思想，在印度、中國、西藏，綻放出燦爛「一本三支」的豐富哲理思想與修行所依。所以，進行中觀學「一本三支」思想的比較，將能進一步了解中觀歷時、共時思想發展的特色。
+　　　《中論》是中觀宗的根本論典，而《中論》之皈敬偈更是本論的根本中心思想所在，因此，比較各注釋書解釋《中論》二十七品的異同，分析印度本土、中國、西藏「一本三枝」中觀思想的發展與演變，應從代表《中論》全論的旨趣皈敬偈開始進行分析比較，如：
+　　　　　　佛宣說緣起，不滅亦不生，不斷亦不常，不來亦不去，
+　　　　　　不異亦不一，息戲論寂滅，我向其頂禮，說法中第一。[ 有關皈敬偈的譯文，參見萬金川《中觀思想講錄》（1998.pp.70-76）。此文比對比對不同的漢譯本與英譯本，同時也解釋梵本原文之意，只是漏列無著的漢譯本《順中論》（T30.1565）。]
+這是屬緣起不落二邊著名的中觀宗思想，只是如此簡潔扼要的論前禮讚，傳達整部論書的主題，若不透過注解家的解釋，很難再深入了解此頌之顯義與密義及與整部論書的關係。但因篇幅有限緣故，本論文只先從早期中觀三論《無畏注》、《青目釋》、《佛護注》注釋《中論》皈敬偈的異同進行比較。[ 當然印度本土注解《中論》的注疏書，非特屬於中觀學者，唯識派世親的弟子安慧（ca. 510-570）亦著手進行解讀《中論》的空性思想，此即漢譯《大乘中觀釋論》，（T.30.1566），大正藏但收前九卷，全本見內學院藏要刊本與卍字藏本。無著（ca. 395-470）《順中論》，（T30.1565），亦針對《中論》的皈敬偈之「八不」做了繁複詳細的說明。中村元（1981，pp.201-202）在印度是否有「八不」術語的使用並不清楚，《明句論》只有出現anirodhAdy-aSTavizeSaNa（滅等不同八種），到中國才有「八不」術語的使用，本論文亦延用。]
+　　　首先進行《無畏注》與《青目釋》的比較之後，接著再加上《佛護注》，三部注解本一起比較分析，即能了解早期中觀注釋書的特色。因《無畏注》與《佛護注》只保留在藏譯本，故本論文進行此中觀三論比較之前，需先進行此二部注釋書藏漢轉譯的工作。《無畏注》依德格版與北京版做校定，並參考其他譯本：1. 池田澄達，《根本中論無畏論釋註》，東洋文庫叢書，第16冊，東京，1969；2. 寺本婉雅，《龍樹造．中論無畏疏》，國書刊行會出版，東京，1974。
+　　　《佛護注》以齋藤明（Akira Saito）A Study of the BuddhapAlita-mUlamadhvamaka-vRtti，Australian National University，1984. 做為精校本，並參考其譯文。此二部注釋《中論》的譯文請參見附錄一，藏文羅馬轉寫校定請參見附錄二。
+
+一、《無畏注》與《青目釋》的對照
+
+　　　《無畏注》[ 雖然西藏傳統中，在《無畏注》被視為龍樹本人的自疏，因在論藏（bstan Hgyur）《無畏注》譯記跋文中，不僅說明《無畏注》是龍樹的自疏，也列出八位注疏《中論》的論師，但在14世紀時，遭到宗喀巴的質疑。宗喀巴的理由是在《無畏注》27品引用提婆（Aryadeva）的《百論》（CatuHzataka），而且後代論師佛護、清辨、月稱從未引用過這本書。Huntington（1986, pp.28-123）則極力從印度、西藏、中國來源資料記載，證明《無畏注》是龍樹的自疏。]與《青目釋》[ 鳩摩羅什（KumArajIva，ca.344-413）所譯注疏書「中論」，如僧叡所作序中，交代此部注疏書的作者是天竺梵志，名賓羅伽，秦言青目。學界對此部疏的作者是「賓羅伽」或「賓伽羅」，原語是PiGgala或是VimalAkSa，提出種種不同的解釋與討論，Robinson（1996, pp.51-53）；Huntington（1986, pp.172-175）。]同為闡發《中論》思想的早期注疏書，中觀思想尚未出現分歧與派別，釋文皆為古樸與簡潔。不只是表現在皈敬偈的詮釋，大體上，二論解讀二十七品偈頌時，不管是以施設料簡之問答做為行文的架構，或是在此料簡架構之下所應用的文字，在在顯現出同質性。[ 此二論的詳細對照，參見Huntington（1986, pp.28-123）。]
+（一） 相同用詞遣字 [ 此一作法主要依於Robinson與Huntington的原則，只是二者皆將此二論譯為英文方便比對，而本論文則將《無畏注》譯為中文，Robinson（1996, p.138）；Huntington（1986, pp.28-29）]
+　　　首先比較二論解釋《中論》皈敬偈時所使用的詞彙。《無畏注》與《青目釋》各保留在藏文與漢文藏經中，試先從轉譯為中文《無畏注》長行中，對照出二論一致的行文，再推敲出此二論源於共有的梵文詞彙。
+《無畏注》	《青目釋》
+　　　所化有情﹝以﹞自在天1、我2、二者3、時4、本性5、決定、本性6、變化7、極微8﹝作爲生﹞之因，而趨入顛倒9——執著10無因11、不相順12因、斷13見、常14見，見法身是隱密，執著種種15我見。爲了﹝這些有情能﹞斷除16種種無因、不相順因、斷見、常見等，爲了﹝這些有情能﹞證悟17法身，爲了斷除我見，使大部分能淨除，爲具大心（智慧）18，可成甚深法器者19，﹝佛陀﹞宣說緣起20，上面﹝如序分頌﹞開示：「佛宣說緣起，不滅亦不生，不斷亦不常，不來亦不去，不異亦不一，息戲論寂滅，我向其頂禮，說法中第一」﹝龍樹如上頌﹞宣說對如來的讚頌，安立頂禮之事，藉此說明勝義諦。
+	有人言萬物從大自在天1生，有言從韋紐天2生，有言從和合3生，有言從時4生，有言從世性5生，有言從變化7生，有言從自然6生，有言從微塵8生，有如是等謬9，故墮10於無因11、邪12因、斷13、常14等邪見，種種15說我我所，不知正法。佛欲斷16如是等諸邪見，令知17佛法，故先于聲聞法中說十二因緣，又爲已習行有大心18，堪受深法者19，以大乘法說因緣20相，所謂「一切法不生、不滅、不一、不異等，畢竟空無所有」。如《般若波羅蜜》中說：「佛告須菩提：菩薩坐道場時，觀十二因緣，如虛空不可盡。佛滅度後，後五百歲像法中，人根轉鈍，深著諸法，求十二因緣、五陰、十二入、十八界等決定相，不知佛意但著文字，聞大乘法中說：畢竟空，不知何因緣故空，即生疑見——若都畢竟空，雲何分別有罪福報應等，如是則無世諦、第一義諦？取是空相而起貪著，於畢竟空中生種種過。」龍樹菩薩爲是等故，造此中論。 「不生亦不滅，不常亦不斷，不一亦不異，不來亦不出，能說是因緣，善滅諸戲論，我稽首禮佛，諸說中第一。」以此二偈贊佛。
+對比二部論的總釋此皈敬偈，[ 二論文之同源性，首先表現在用字上。Skt. 指梵文；ABh表示《無畏注》。
+]清楚地顯示出二論是運用的共同文字，來傳達佛陀破斥各種外道邪見，為有情開示緣起。是故，《青目釋》注疏時應是以《無畏注》為主要參考依據，採納《無畏注》的論述與觀點進行注釋，才有如此相仿的行文產生。
+上文內容中，《青目釋》是以「問曰」來開展說明爲何龍樹造此《中論》，佛爲斷衆生各種邪見與執著，先爲聲聞人說十二因緣，又爲已具大心法器大乘者，說畢竟空無所有之因緣法。接著引用《般若經》證明佛滅度後五百歲，衆生根器轉鈍有著文字相者，有懷疑空相，有貪著空等，墮入種種過失，因此之故龍樹造此《中論》，以此皈敬頌贊禮佛，說明第一義諦。
+而《無畏注》則用敍述方式直接說明，佛爲斷衆生各種邪見與執著及爲具法器大心者，故說緣起，沒有引經文，沒有提到龍樹造《中論》之因，直接說明龍樹是以此皈敬頌頂禮讚揚佛陀，藉此宣說勝義諦，接著簡略說明八不。相較之下，《青目釋》在論開始提問與解釋造論之因，令讀者能較清楚《中論》的目的方向。
+比對過第一段總釋皈敬偈時皆採用相同的文字，接著比對二部論的問答討論的內容。
+（二）問答之比對[ 表示此論中無此問題。]
+《無畏注》	《青目釋》
+	1.問曰：何故造此論？
+1.問曰：何故遮破此八種？
+　答曰：說緣起是世俗諦而趨入勝義諦者，爲破斥他們“滅”等八句的執著，故說“不滅”等八句。	2.問曰：諸法無量，何故但以此八事破？
+答曰：法雖無量，略說八事，則爲總破一切法。
+	3.不生不滅，已總破一切法，何故複說六事？
+
+2.問曰：何故先說不滅？
+	
+3.問曰：不承許“滅”，何以故？
+答曰：因在世間可見，如同在世間可見諸法不滅。劫初之香稻等類之物，如果滅了，則當今看不到香稻等，因看見﹝香稻等﹞，故不滅。	5.問曰：若不生則應滅？
+答曰：不滅，何以故，世間現見故，世間眼見劫初穀不滅。若滅今不應有穀，而實有穀，是故不滅。
+4.問曰：則有生？
+答曰：不生。何以故？因在世間可見，如同在世間可見諸法不生。在劫初之香稻等類之物是不存在，如果沒有，而當今能看見香稻等，則可說有生。因看不見，故不生。	4複次萬物無生，何以故？
+　世間現見故，世間眼見，劫初穀不生。何以故？離劫初谷，今穀不可得，若離劫初谷有今穀者，則應有生，而實不爾，是故不生。
+5.問曰：有斷？
+答曰：不斷。何以故？因在世間可見，如同在世間可見諸法不斷，看見香稻種子生出香稻苗等，若是斷，將看不到﹝苗﹞生起，因看見生起，故不斷。	7.問曰：若不常則應斷？
+　答曰：不斷，何以故？世間現見故，世間眼見萬物不斷。如從穀有芽，是故不斷。若斷不應相續。
+6.問曰：有常？
+答曰：不常。何以故？因在世間可見，如同在世間可見諸法是常，是不合理。苗時看不到香稻種子，因苗時種子就離開(沒有)，故不常。應思惟一切諸法如同香稻種子。	6.問曰：若不滅則應常？
+答曰：不常，何以故，世間現見故，世間眼見萬物不常。如谷芽時，種則變壞，是故不常。
+7.問曰：諸法是一？
+答曰：非一，何以故？因在世間可見，如同在世間可見諸法不一，香稻種子不是苗。若是一，則不會有種子與苗﹝二種﹞不同的講法（稱呼），能說他們是不同，故是“不一”。	8.問曰：若爾者萬物是一？
+　答曰：不一，何以故？世間現見故，世間眼見萬物不一。如穀不作芽，芽不作穀。若穀作芽，芽作谷者，應是一，而實不爾，是故不一。
+8.問曰：諸法是異？
+答曰：不異。何以故？如同在世間可見諸法不異。如果承許是異，則如是說香稻種子、香稻苗與香稻葉等，何故不變成芥子種子、芥子苗與芥子葉？因﹝實際上﹞不是這樣，故不異。	9.問曰：若不一則應異？
+答曰：不異，何以故？世間現見故，世間眼見萬物不異。若異者，何故分別谷芽、谷莖、谷葉，不說樹芽、樹莖、樹葉，是故不異。
+9.問曰：有來？
+答曰：不來。何以故？因在世間可見，如同在世間可見諸法不從任何地方來。若香稻的苗來了，必不在香稻種子上安住。若苗從其他地方來，定能在種子上安住，如同看見鳥類﹝從其他地方來﹞在樹上安住一樣。因看不見，故不來。	10.問曰：若不異應有來？
+答曰：無來，何以故？世間現見故，世間眼見萬物不來。如穀子中，芽無所從來。若來者，芽應從餘處來，如鳥來棲樹，而實不爾，是故不來。
+10.問曰：有去？
+答曰：不去。何以故？因在世間可見，如同在世間可見諸法不去，看見香稻芽不走向種子。若有去，如同看見山中蛇﹝出穴﹞一樣，因看不見，故不去。	11.問曰：若不來應有出？
+答曰：不出，何以故？世間現見故，世間眼見萬物不出，若有出，應見芽從穀出。如蛇從穴出，而實不爾，是故不出。
+　　　所以此二論在解釋皈敬頌時，造論者自問自答，以料簡方式來進行討論，表達造論者中心旨趣。從問答內容來看，基本上二部論的架構是一致，二者所設的問題與答案出入不大。尤其是討論舉「八不」是能成立的譬喻時，問與答之內容、用例可說完全相同。[ 這種以問題之施設做為論題的討論，而且這二論之間設問之架構是相當一致，故這二論必有共同來源，Huntington（1986, p.32）]同時此部論各引用《般若經》來證成論述。
+
+（三） 內容比對
+　　　《青目釋》與《無畏注》此二論各有十個、十一個料簡，《無畏注》第三問題，與《青目釋》第五個問題以後，討論八不能成立的譬喻時，文詞用例幾乎完全一致，內容相當一致，只是次序有些不同。雖然前面二個問答有出入，討論的主題與重點，同樣皆圍繞在“不滅”等八不上。可以說，此二論解釋《中論》皈敬偈，將問題全擺在“不滅”等八不上，略過“緣起”等其他句義，極力證成“不滅”等八不，緣起也就能成立。
+　　　《青目釋》第二問題與第三問題是相關，因“滅”等皆是無自性，故以此八事能總破一切法，甚至只要了解其中“不生”、“不滅”，即能通達一切法。諸外道論師所執之生相，是不可得、不應理，若破“生”，則“滅”亦是無。因了解無生無滅，故其餘六種自性亦不可得。既然無生無滅已足夠總破一切法，何故又說其餘六種？因有情個人根機不同，有人不信“不生”、“不滅”，只能從“不斷”、“不常”趨入瞭解，才能進一步體悟不生、不滅，故不生、不滅即是不常、不斷。但仍有人執諸法因果是一或是異，故說不一、不異。又另有人承許諸法有來、去，故仍需說此其餘六種。這種解釋是相應於《無畏注》，為佛教徒說“不滅”等前四種，為外道說“不一”等後四種，事實上，“滅”等八事皆是同義詞，同為無自性，故先說“不滅”沒有過失，只是眾生根器不同，說法內容亦不同。
+《無畏注》第一個問題「爲何遮破此八種」與第二問題「何故先說不滅」，是相承連貫，答案的關鍵點——遮止“滅”等八自性的執著，約占全文四分之一。因為“滅”等八是沒有差別，皆同為無自性，故第二個問題回答，先遮破“滅”是沒有過失。“不滅”等八種是相同本質，是同義詞，只是爲配合偈頌所說的順序，及依照《般若經》所安立，故先說“不滅”，但實際上此八事是異名同性質——無自性。“不生”是“不常”、“不異”、及“不來”，又“不滅”是“不斷”、“不一”及“不去”。因觀待而生是無自性，故爲“不生”。此“不生”即爲“不常”、“不斷”、“不一”、“不異”、“不來”、“不去”，所以不應執“滅”等八種為異名。
+前四種“不滅”等是專為佛教徒自宗開示。而為了破斥外道異說，數論師執因果是一，故需說“不一”，勝論派以爲因果是異，故說“不異”，亦與《青目釋》同，只是《青目釋》只有提出異說，沒有進行遮破論辯。又這兩種外道執著有情有來、去，故說“不來”、“不去”。如同數論師與勝論師皆執“一”、“異”、“來”、“去”是異名，而主張因果是一、是異，聲論師亦執作者與所作事是異名，但因「名」與「具名」的物體本身是非一、非異的關係，故「名」是無自性，所以“滅”等是無差別。最後舉經證證明「名」是如陽焰的不真實，不應在「名」上，分別為真實。“滅”等名言是不真實，皆是無自性，不應執“滅”等為異名，故先討論“滅”是無過失。
+　　　最後，二部論舉世間可見事例證成八不，《青目釋》先說“不生”與《無畏注》先談“不滅”順序不同。問何以故萬物是“不生”？然後解釋“不滅”，談“不常”再說“不斷”。皆舉稻穀[ 《無畏注》「香稻」，Hbras sA lu。《青目釋》只用「穀」。]之種子、芽做事例，闡釋諸法是沒有絕對的“生”等八種狀況存在。劫初時稻穀，延續至今，現在仍看得見，故是“不滅”。劫初當時的稻穀，現在已看不見，故說“不生”。稻穀種子能發出苗芽能相續生長，故是“不斷”。稻穀的苗芽長出時，稻穀種子即消失，諸法如同稻穀種子是“不常”。稻穀種子與芽是不一樣，稱名亦不同，故是“不一”。若稻穀種子、芽、葉是不同，何故又區分樹[ 《無畏注》ko dra ba不確定是何種植物，也許是「芥子」。]的種子、芽、葉[ 《無畏注》「種子、芽、葉」。《青目釋》「芽、莖、葉」]，怎不會變成樹的種子、芽、葉，是故稻穀種子、芽、葉“不異”。若稻穀苗芽是從他處來，而住於種子上，如鳥類從別處來而棲息樹上一樣，但因不可見，故是“不來”。稻穀苗芽去向種子[ 《無畏注》Hbras sA luHi my gu sa bon la Hgro ba med pa]，或芽從種子走出，如蛇出穴一樣是不可能，故是“不去”。
+　　　
+二、《佛護注》與《無畏注》、《青目釋》的對照
+
+　　　佛護生平在文獻上沒有很清楚的記載，大約是在西元500年左右的人，依西藏的傳承，佛護出生在南印，是中期中觀派活躍的論師。[ 塚本啓祥等編著（1990，p.103）；Ruegg（1981, p.60）。]比起早期《青目釋》與《無畏注》，《佛護注》雖然時間上是屬中觀中期思想論著，但在論題與問答型式上與早期二論相仿，故歸為早期注疏書，與早期二論進行比較。[ 雖然佛護與清辨約爲較早期同一年代的人，且各被認爲分別爲應成派與自續派的創立者，但針對《中論》皈敬偈的注解，仍看不出二論師思想對立之處。
+山口益（1978，p.288、290）指出雖說佛護是中觀應成的開祖，因其撰寫疏書《佛護注》之故，但此書看不出有瑜吞行派的觀點及受陳那因明影響之跡，所以，尊佛護為開祖是基於月稱宏護而來。佛護為開山之祖，而實際上集大成者是月稱。]
+（一） 問答比對
+《無畏注》	《青目釋》	《佛護注》
+龍樹以佛所開示緣起，禮贊佛陀，藉此開顯勝義諦。		龍樹現見佛所開示之緣起而禮贊佛陀，欲開顯緣起。
+	1.問曰：何故造此論？	1.問曰：開示緣起目的爲何？
+		2.問曰：何爲諸法真實義？
+		3.問曰：再解釋佛已說過緣起之目得爲何？
+1.問曰：何故遮破此八種？	2.問曰：諸法無量，何故但以此八事破？	4.問曰：何故遮破此八種？只破此八種是不夠？
+	3.不生不滅，已總破一切法，何故複說六事？	
+2.問曰：何故先說不滅？		5.問曰：何故先破滅，後破生，理應先討論“不生”？
+		6.問曰：依次第應先討論“不生”？
+3.問曰：有滅等異名諸法？	4.問曰：若不生則應滅？	
+4.問曰：則有生？	複次萬物無生，何以故？世間現見故，世間眼見，劫初穀不生。何以故？離劫初谷，今穀不可得，若離劫初谷有今穀者，則應有生，而實不爾，是故不生。	
+5.問曰：有斷？	6.問曰：若不常則應斷？	
+6.問曰：有常？	5.問曰：若不滅則應常？	
+7.問曰：諸法是一？	7.問曰：若爾者萬物是一？	
+8.問曰：諸法是異？	8.問曰：若不一則應異？	
+9.問曰：有來？	9.問曰：若不異應有來？	
+10.問曰：有去？	10.問曰：若不來應有出？	
+　　　《佛護注》如同前二部論，透過問題討論與回答，形成文章主要架構與內容。但此論只有六個問題討論，減少的部分是《無畏注》與《青目釋》共有舉例證成八不。佛護略過譬喻，詳細要說明解釋緣起的目的；重複佛開示過的緣起是合理；因有情執著諸法“滅”等八種自性有，故要遮破此八種；及“生”與“滅”是沒有一定順序先後，故頌中先安立“滅”。
+　　　同樣透過比對《佛護注》與前二部論的問答內容，可知佛護討論的主題重點同樣是證成八不。雖然《佛護注》與早期二論問答一致的地方只有第4問題「為何遮破此八種？」，但此一問題即是此三部論共同的討論主題，也得到佛護的深入詮釋分析。
+　　　
+（二）《佛護注》——深入解釋諸法名言自性空
+　　　首先佛護直述龍樹因現見緣起真實義，了解緣起是稀有難得，內心歡喜，生淚流注，身毛豎起，佛法身如在眼前，以皈敬偈禮贊佛陀，世尊宣說八不、能息滅戲論之緣起深義，故如來是說法中第一，而發願造論欲解釋八不緣起。所以，此皈敬偈如佛經一樣是根本，論的其他27品偈頌是來解釋此皈敬偈[ 此皈敬偈是此《中論》的根本、中心旨趣，又此《中論》亦是其他中觀論著的根本。]。先點出龍樹造論主題是八不緣起，接著提出六個問題，為龍樹解釋八不緣起的重要與需要辯護，即為使有情能了解諸法自性空，才能遠離邪見、執著，得證第一義，無後有輪迴。
+　　　六個問答討論組成，第一「開示緣起目的是什麽？」、第二「何爲諸法真實義？」因爲大悲龍樹爲使衆生解脫世間諸苦逼迫，故想要開示諸法無自性之真實義。若衆生生起了悟諸法如幻影是無自性的智慧時，則能遠離三毒，斷盡三有輪迴種子。亦即龍樹爲闡釋諸法無自性，故著手造此論開示緣起。
+　　　第三「既然世尊已開示說明過種種緣起，龍樹再解釋一次的目的爲何？」如《青目釋》「佛滅度後，後五百歲像法中，人根轉鈍，深著諸法，求十二因緣、五陰、十二入、十八界等決定相，不知佛意但著文字。」有衆生執著世間名言，誤解“生”、“滅”等是實有，而不能體悟甚深緣起，因此龍樹引經教、正理，向這些衆生開示緣起真義。如同世上弟子解釋老師之教法一樣，龍樹開示緣起是合理。
+　　　第四「何故破斥“滅”等八種？只有破“滅”等八種不夠吧？」如分別部、耆那教、數論派等外道諸論師，因世俗名言而主張諸法自性有，而在“滅”等八種産生分別諍論，是故需遮破“滅”等八種。與前二部論比較，《佛護注》補充解釋，列舉較多外道論點主張，這八種即是主要執著的邪見與諍論處，故需要破斥滅等八種。
+　　　因無名言自性，故第五與第六問題討論生、滅是無一定次序。在文法語言上可說生在前，但在意義上則非必如此。雖然世間現象認知中是先有“生”而後有老死等，但實際上若先有生，將墮入輪迴，將成有始的過失中，故生、死無先後。又若一定是先有生，後有老死，亦將落入生是無老死及不死亦會生的過失。
+　　　生、滅的關係必定發生在非異事物上，如同芽與種子二者有因果關係，故是非異，而論敵所說種子之滅與苗芽之生是不同的物體，這是不成立的。因此不可說同一物的生，同一物的滅，如天人死後又生爲天人，畜生又墮爲畜生，如此必成常的過失了。如同提婆說過，生死無明種子是無始，好像無因之生起是不存在，是故安立生、滅必定有前後關係是一種執著、不應理。
+　　　比起早期二部論，佛護更清楚指出龍樹是為闡釋諸法無自性，而造論說八不緣起。故第一步需先遮破無智者因諸法所安立的名言，而執著諸法有自性的邪見，諸法有名言即有相對的自性。若諸法是無自性，名言與物本身是非一非異，則一般人執著生、滅等是無絕對生起先後次第。所以，佛護在《無畏注》與《青目釋》解釋基礎上，略去八不能成的譬喻，更深入解釋“滅”等名言自性不能成立，諸法皆是無有自性。
+　　　
+（三） 比較爲何說緣起
+　　　此三論共同之處，皆在論之開始羅列出外道諸顛倒見，如梵天、時、極微、自性等等。只是仔細對讀，即能發現三論解釋佛為何緣起的原因，詳略有所不同。其中最簡略說明的是佛護，若唯讀《佛護注》，會使人以爲佛陀是爲斷除外道諸顛倒戲論，才開示甚深勝義諦，開導不生、不滅等八不。這些外道異論如同小孩的言論，亦如同盲人之摸象，不得見真實，所以開示此緣起。龍樹依此佛之教言緣起，而造此論來詮釋勝義緣起。似乎佛只是爲破外道，爲外道人說緣起法。而說緣起法的目的，即是造此論的目的——使眾生了解諸法無自性，斷三有種子。引用提婆之開示，有情若在境上看見無我，則三有種子將滅盡。
+　　　而《無畏注》因外道執著無因、異因、斷見、常見、隱蔽法身見，佛陀爲使有情能淨除這些執著，能證悟法身，故而說緣起、導正外道諸邪見，故爲了具大智慧、具法器種子者，宣說緣起。主要是斷外道諸顛倒見，所以為具大智慧法器者說緣起。也許佛護簡略之處是當時普遍認知，或是先前之論已解釋過，不需再多說了。
+　　　至於《青目釋》則是三注釋本中最詳盡，而且是有次第分析解釋。若依吉藏《中觀論疏》，分成佛說經意與龍樹造論意。「答曰……如虛空不可盡」是佛之經教，「佛滅度後……造此《中論》」是龍樹解經造論。[ 《中觀論疏》（T.42.1824.14a-20a）。]佛陀爲斷諸外道無因、邪因、斷、常等邪見，故先於小乘經聲聞法中，說十二因緣。及爲堪受深法，具法器者，在大乘經《般若經》中，以大乘法說因緣相，即不生、不滅等諸法空無自性教言。佛陀只爲堪受深法，具空性法器者說八不緣起因緣相，爲外道人所說的只是聲聞法十二因緣，與《無畏注》解釋相同，佛為具大智慧法器者說八不緣起。而龍樹造論意是佛滅度後，過五百年像法中，迷著佛曾說過之教言。衆生根器轉鈍，不能瞭解佛陀之深意，只執著十二因緣、五陰、十二入、十八界等小乘經之文字。對於大乘經中所言畢境空，生起疑惑，若諸法畢境空，如何安立因果罪福報應等事，故誤解空而生起種種過失。因後世衆生執著小乘經，不能瞭解大乘經因緣畢境空之教法，因此之故，龍樹造此《中論》。[ Robinson（1996，p108） 的解讀似有出入，此段落是說明龍樹造論的歷史與論辯的背景，提出三種錯誤教理，有外道邪見，與執著有的說一切有部與執著無的大衆部之小乘學者。但若參考吉藏的解讀是比較合理，前者是迷小，後者是迷大，即「前文著有，此文滯空」。佛滅度後有但執聲聞法中十二因緣等爲實有，及不瞭解大乘畢竟空，而生起疑惑、分別見及貪著空等過失。對應于後世衆生不瞭解「佛說經意」之小乘法與大乘法，而有「迷小」與「迷大」等根鈍衆生的過失，《中觀論疏》（T.42.1824.19a）。
+　無著《順中論》的詮釋與《青目釋》相近，問曰：「因緣生者，云何戲論？」答曰：「因緣生者，世尊已於小乘中說，隨順次第得入法義，亦以對治外道取法。」問曰：「云何對治？」答曰：「外道惡見，彼有體見，有斷常見，如是樂著一切世界，摩醯首羅、時節、微塵勝及自性斷滅等，生如是分別。彼外道人，如是分別，則失因緣，彼人如是樂戲論故，名爲惡見。此之戲論，是諸外道取著之法，爲斷此故，世尊已說，無明因緣而生於行，無明滅故，諸行滅等，以如是故，有世界生，以如是故，則世界滅，非餘法故，如是生滅。」問曰：「摩醯首羅、時節、微塵勝者、自性及斷滅等，此等因緣，能生世界，滅世界者，此諸因緣，可是戲論，若因緣生，因緣滅者，云何戲論？」答曰：「以取著故，次第乃至取著涅盤，如來亦遮，何況不遮取著因緣。外道之人，取著體故，失於善道，行於惡道，戲論不實。」（T.30.1565.41a）亦以小乘法對治外道自在天等諸顛倒執。
+無著解釋爲何造此論，「問曰：「阿闍梨意，爲何義故，而造此論？」答曰：「依順道理，入大般若波羅蜜義，爲令衆生舍諸戲論取著等故。既舍離已，依順道理，速入般若波羅蜜故。既依道理，速入般若波羅蜜已，舍諸戲論一切取著，舍諸戲論取著等已，速疾成就無上正覺，爲此義故，師造此論。」（T.30.1565.44c）]
+　　　對比解釋佛為何說緣起，三論共同之處需先破斥外道種種邪執，所以三論羅列各種外道邪見，只是佛陀說八不緣起的對象，佛護的解釋不夠清楚，在當時菩薩、聲聞二乘對峙壁壘分明的年代，佛護也應知道早期二部注疏書已清楚指出佛只為具大乘法器者說八不緣起，也許只是佛護注釋時文句的省略的結果吧。因此，早期二論早已透過解釋佛是為大根器者說八不緣起，直接地突顯出龍樹解釋八不緣起所造的《中論》，即是一部不共外道、聲聞的論著。
+
+三、結論——三論的文本關係
+
+　　　對照此三部論後，三部論同樣先總釋皈敬偈，佛陀為使有情能斷除外道諸邪見與執著，如自在天、時、極微、自性等等顛倒見，而開示八不緣起。龍樹藉著稱讚佛開示八不緣起，是說法中第一，要著手造論、解釋此殊勝的八不緣起。《青目釋》解釋佛滅度五百年後，眾生根器轉鈍，執著文字，不能了解真正空性之義，與佛護解釋有情執著所詮文字，不能了解甚深緣起，所以龍樹要造《中論》解釋八不緣起，於此二論解釋是相同。
+　　　此三部論解釋此頌時，關心的重點是“不滅”等八不，《無畏注》討論：「何故遮破此八種？」《青目釋》：「諸法無量，何故但以此八事破？」《佛護注》：「何故遮破此八種？只破此八種是不夠？」如月稱之解釋，因“滅”等八事，是主要諍論點，外道等有情不能了解“滅”等皆是無自性，故執著“滅”等不同名稱自性，故需破斥對“滅”等名言自性有的執著，如佛護補充解釋，列出分別說部、勝論派、耆那教等等的主張，才能使眾生了解諸法是名言自性空的理則。接著《無畏注》與《青目釋》舉相同譬喻證成“不滅”等八不，“滅”等是無絕對自性，才有世間可見的種種現象。而佛護不再重複舉例證成八不，而是詳細再解釋因諸法是無自性，故“生”與“滅”是沒有一定先後。所以，三論論述重點是強調諸法無自性，“不滅”等八不只是諸法無自性的現象，作為討論的切入點。
+　　　比較此三部《中論》皈敬偈註疏書的詮釋，《無畏注》與《青目釋》同質性最高，《佛護注》則補充前二論之不足之處，在這些論題上深入解釋。早期《無畏注》與《青目釋》二論是如此類同，雖然在解釋字句上增減有所不同，不能說是完全相同，但至少在思想、文章型式等實質上可以說是等同。而且此一同質性，不只表現在皈敬偈的解釋上，在其他章節解釋亦是如此。[ 丹治昭義《無畏青目注》（1983，pp.85-88）；Huntington（1986, pp.28-123）。丹治昭義只比較26、27、皈敬偈等，得出此二論的詮釋大致是一致。而Huntington則從品題、偈頌數目、問答內容等，全面地比較每一章節。]
+　　　亦因為《無畏注》與《青目釋》同質性太高，有學者認為此二部論同為青目所造，或認為《無畏注》是龍樹本人之注釋，而《青目釋》是龍樹直傳弟子提婆之作品，故接近龍樹的注疏本。[ Huntington（1986, pp.12-13），提出Lamotte與Lindtner的看法。]或以為《青目釋》是依據《無畏注》所造的注釋。[ Huntington（1986, pp.7-8），《青目釋》是依當時《無畏注》所流傳的修定本而寫的注釋。]或基於此二論的同質性，學者從另一角度分析，《青目釋》長行注疏中異於《無畏注》之處，推測是因為譯者鳩摩羅什的修改所造成，故現存漢譯《青目釋》與原來羅什所譯的傳本，內容大概多少有不同。[ 丹治昭義（1983，pp.83-88）。正如《中論》之僧叡序：「今所出者，是天竺梵志，名賓伽羅，秦言青目之所釋也。其人雖信解深法，而辭不雅中，其中乖、闕、煩、重者，法師皆裁而裨之」，（T.30.1564.1a）。因羅什不滿於青目原文之詞意表達，當譯為漢文時，從中做了修正，這亦是造成此二論相異的另一原因解釋。]總之，從文獻比對考察，可知早期此二部論的同質性及印度早期《中論》注解書的共通性是不容否認，但關於此二論的作者、流傳狀況等之間的關係，因證據不夠充足，種種疑問，只能持保留態度。
+　　　《無畏注》與《青目釋》同質性較高，故有較多學者探討這兩部論的關係。而《佛護注》是屬中期注疏書，探討論題時常與上二論重複，而且是更擴大與深入來分析，[ Saito（1984, p.xxiii）]就如同比較三部論解釋《中論》皈敬偈一樣，《佛護注》的詮釋，脫離不了《無畏注》與《青目釋》早期二論的關係，而且經過逐字句比較，《佛護注》有三分之一句子是與《無畏注》相同。[ Huntington（1986, p.21）]推測因現存藏譯本《無畏注》、《佛護注》與漢譯《青目釋》是共源於龍樹自釋的「無畏注」，三部論的差異是因所依「無畏注」流傳修定本的不同，依不同的流傳修定本而造成內容上的出入，[ Huntington（1986, pp.7-8、192-193）]這是一種合理的解釋。而透過上文三論的比對，若說《無畏注》與《青目釋》注釋時參考的底本是相同，《佛護注》是在這二論的解釋基礎上，將論述重點更清楚的闡釋，更是不會有問題。
+　　　參考書目
+
+1. 山口益：1968，《月稱造中論釋》，東京：清水弘文堂書房。
+2. 中村元：1981，《空意義》，出自《佛教思想》6----《空》上，京都：平樂寺書店。
+3. 丹治昭義：1983，《無畏青目注》，收於《印度學佛教學研究》31卷No.1，東京：山喜房，頁83-88。
+4. 塚本啟祥等編著：1990，《梵語仏典研究》，京都：平樂寺出版。
+5. Robinson, Richard H.：1996，《印度與中國的早期中觀學派》，郭忠生譯，南投：正觀出版社。
+6. 萬金川：1998，《中觀思想講錄》，嘉義：香光書香。
+7. Ruegg, David Seyfort：1981，The Literature of The Madhyamaka School of Philosophy in Indian. Wiesbaden: Harrassowitz.
+8 Saito, Akira（齋藤明）： 1984，A Study of the BuddhapAlita-mUlamadhvamaka-vRtti，Australian National University.
+9. Huntington, Jr. Clair W.：1986，The AkutobhayA and Early Indian Madhyamaka. Michigan: University of Michigan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+《根本中論無畏注》[ 簡稱《無畏論》]
+
+[ （29b.1，34.1.2）29b.1是指德格版29頁背面第一行，若是a表正面，b是同頁之背面；34.1.2是指北京版34頁背面第2行。以下其他藏譯注疏校勘皆如此表示。]梵文：mUlamadhyamika-vRtty-akutobhaya
+藏文：根本中論無畏注
+頂禮三寶。
+頂禮聖文殊師利童子。
+頂禮聖龍樹阿闍梨。
+頂禮以此﹝緣起﹞方法，斷盡生、滅，開示緣起之能仁。
+　　佛宣說緣起，不滅亦不生，不斷亦不常，不來亦不去，
+不異亦不一，息戲論寂滅，我向其頂禮，說法中第一。[ 《藏要》本校勘依藏文《明句論》譯為「由正覺說緣起，緣起不滅等，息戲論而寂滅，是諸說法中勝，今此歸敬彼。」因在此論結頌時，為破執著，而先說不滅。本論文暫依梵文《明句論》譯出此皈敬偈。]
+﹝1.總釋皈敬偈﹞
+　　　﹝此頌意義是指﹞「所化有情因﹝以﹞自在天（IZvara）[ 自在天（IZvara）在印度諸外道中，瑜伽派在數論派二十五諦基礎上，為了方便修行，更安立神，即自在天為第二十六諦，此自在天超然於苦樂業報之外，黃懺華，（1983, pp.63-64）。正理派除了承許有個人我，是三世實有恒存，又承認有支配世界指導人類的自在天，黃懺華，（1983, p.89）。正理派主張的十六諦義是由大自在天所說，（1983, p.92）。勝論派後世建立大自在天，做唯一普遍常住的大我，大自在天透過六句義的材料創造萬有，而且支配一切，黃懺華，（1983, p.78）。]、我（puruSa）[ 我（puruSa）在數論派以為有情構成有二個要素，一種是精神要素，一種是肉體要素。有情即是主觀與客觀的結合。而「我」本質上是虛靈不昧，沒有苦樂，而「我」是物質的原理的本源，是自造者，黃懺華，（1983, pp.51）]、二者（puruSa與prakRti）[ 同上，數論派排除最高統一的原理，以二元論自性和我，說明世界有情的起源。此二者全然不同的本質，因無明無知使之結合，而開展種種要素，構成器世間、有情世間。二十五諦正是把一切萬有開展狀況依次第說明，黃懺華，（1983, p.53）。]、時（kAla）[ 時是勝論派九種實句義（事物自體）——地、水、火、風、空、時、方、我、意之一。]、本性（prakRti）、決定[ 其意義不知為何。]、本性[ 「本性」有種種異名都能夠表示他的特質，用現在的術語就是自然、天然之意。用於物質的現象，為特別表示自性的原理，稱為「本性」。又從自體還在混沌未分狀態，沒有發展成現象界，叫做「非變易」。從不是別的所造，無始無終的存在體，稱為「自有」（自體）。又是現象界的原因，造作發生的地方，稱作「勝因」，或是「作者」。有時亦稱為「根本原質」，或是「根本原因」。漢譯作「世性」、「冥諦」等類。如真諦所譯《金七十論》（T.54.2137）：「自性者，或名勝因，或名為梵，或名勝持。」《華嚴玄談》：「自性是第一諦，古稱冥性，亦名勝性。」黃懺華，（1983, pp.51-52）。]（svabhAva）、變化[ 「變易」是因自性與我結合的結果，非變易的自性中起三德不平均，次第發展現象界，發生大、我慢、五知根等二十五諦，於是構成現實世界，即稱為「變易」，黃懺華，（1983, p.53）。]（pariNAma）、極微（paramANu）[ 勝論派視一切萬有皆是實有，皆為常住的地水火風四種極微集合離散而成。極微性質是常恒不變，形狀是圓體，大小是光塵的六分之一。而四大四種極微性質各各不同，黃懺華，（1983, p.75）。]而趨入顛倒——執著無因、不相順因（邪因）、斷見、常見、見法身是隱密，[ 意義是指認為成佛之道是遙遠的，不大可能的。《藏要》本譯為「隱蔽法身見」。]為﹝使有情能﹞斷除我見、我執、無因、不相順因（異因）、斷見、常（34.2.1）見等，為﹝使有情能﹞證悟法身，為使斷除我見，使大部分能淨除，﹝故﹞往昔﹝佛陀﹞為具大智慧、甚深法器者，宣說不滅亦不生，不斷亦不常，不來亦不去，不異亦不一的緣起，能息滅諸戲論、得寂滅，是諸說法中第一，我向其頂禮。」﹝論主龍樹﹞以宣說對如來的讚頌、安立頂禮之事，藉此說明勝義諦。
+　　　[ （29b.7，34.2.5）]“不滅”[ “  ”表示皈敬偈中的文句。]指在緣起（30a.1）中是無有滅。何以故？因為不生。
+　　　“不生”因為不滅。
+　　　“不斷”種子與苗﹝關係是相續﹞。
+　　　“不常”如同種子與苗﹝生長﹞階段事實。
+　　　“不來”、“不去”如虛空。
+　　　“不異”如同香稻的果實。
+　　　“不一”如同香稻的種子。同樣其他未談之句，亦配合各種語句來說。
+﹝2.說八不﹞
+　　　問：何以故？要遮破此八種？答：說緣起（35.1.1）是世俗諦而趨入勝義諦者，為破斥他們對“滅”等八句的執著，故說“不滅”等八句。
+﹝2.1何故先說“不滅”﹞
+　　　問：何故先說不滅？[ 參照《藏要》校勘說明，《青目釋》從「問曰：諸法無量，何故但以此八事破……出者還至本處。」此段是別釋八不，能與《無畏論》「何故先說不滅？」相對應，只是《青目釋》此段如頌文，將“不滅”與“不生”倒置。是故，「不生者，諸論師種種說生相，或謂因果一，或謂因果異……」指外道學說，缺列出聲論派之執名言，《無畏論》置於自宗教理之後。而「不滅者，若無生何得有滅？」指自宗教理，《無畏論》先列舉自宗說法，“滅”等名言是無自性、非實有。此段別釋八不，二論文字、文脈出入較大，但探討主題上仍是一致的。]答：按照﹝論中﹞這樣，確定是先說“生”，但配合﹝皈敬﹞偈頌，是先安置“不滅”之句，﹝此二者﹞是不相違的。
+　　　又為了斷除對「滅」之名是實有的執著，《般若經》如是說——
+　　　佛言：「善現！汝意云何？已滅之心，再生不？」善現言：「不！」佛言：「善現！汝意云何？已生之心，是滅法不？」善現言：「非滅法。」佛言：「善現！汝意云何？滅法會滅不？」善現言：「不」佛言：「善現！汝意云何？未生之法是滅法不？」善現言：「不！」（30b.1）佛言：「善現！汝意云何？滅法會生不？」善現言：「不！」佛言：「善現！（35.1.2）汝意云何？心滅法會滅不？」善現言：「不！」佛言：「善現！汝意云何？無自性之已滅法會滅不？」善現言：「不！」
+如同﹝依照﹞《般若經》中假名安立，遮破滅法的次序，故先說“不滅”。
+﹝2.2談自宗，立“不滅”至“不常”﹞
+　　　[ （30b.3，35.2.4）]又因“不滅”語義與“不斷”語句之間確有一定關係，是故先說“不滅”。因“不斷”是“不滅”，“斷”非是滅，是故“不滅”。因為“不生”與“不常”語句之間確有一定關係，故在“不滅”後，馬上說“不生”。因“不滅”是“不斷”。在此，“滅”非即是斷，故“不斷”。因“不生”是“不常”，“生”非即是常，故“不常”。
+　　　現在其他的觀察分析。因為“不滅”是“滅”與“未滅”皆不可滅。因為“不生”是不可轉移（投生、死）的。（36.1.1）又﹝如﹞之前的其他同義詞，“不滅”是指在其他時段是不會滅。又其他分析，因“不滅”是身（諸法本身）與名是不合理。又因“不生”是身與名亦不合理。（身與名是剎那生滅）
+　　　（31a.1）其他同義詞，因“不滅”是有自性是不合理。又因“不生”是有自性是不合理。又其他分析，因“不滅”是自性空故。又因“不生”亦是自性空。
+　　　其他同義詞，因“不斷”是“不滅”，因“不常”是“不生”，因“不異”是“不生”，因“不一”是“不滅”，因“不來”是“不生”，因“不去”是“不滅”。又其他分析，因沒有生、滅，是故，在其他一切地方，亦同樣不能執著。
+　　　[ （31a.3，36.1.6）]又其他分析，因為觀待而生，非自己亦非其他，故亦不從第三者（自他）生，所以是“不生”。是故因“不生”故“不來”，“不來”故“不去”。其他同義詞，觀待而生，因非自，故不常。因非其他，故“不斷”。又其他分析，觀待而（36.2.1）生，因非自，故“不一”。因不是其他，故“不異”。其他同義詞，觀待而生是無自性，因無自性，故“不生”。因不生故“不一”、“不異”。因“不生”故“不來”、“不去”。其他同義詞，觀待而生是無自性，因無自性，故不應執著“滅”等名稱所有不同的自性。
+　　　前四句“不滅”至最後“不常”等，大致上是﹝佛教徒﹞自宗教理的範圍，（31b.1）已解說完畢。接下來是屬於其他外道學說，﹝下面﹞將要說明。
+﹝2.3破外道，立“不一”至“不去”﹞
+　　　因數論師一直成立因果是一，為了破斥“一”，故說“不一”。勝論派一直成立因果是異，為了破斥“異”，故說“不異”。[ Robinson（郭忠生譯，1996，pp.109-112）數論派與勝論派哲理在《百論》、《大智度論》等有介紹，；姚衛群（1992，pp.130-131）數論派在因果觀上提出最主要理論是「因中有果論」，結果實際上不過是原因的轉變，在原因中即已包含了結果，根本因即是「自性」（prakRti）。勝論派在因果觀上主張「因中無果論」，結果是由各個原因積聚結合而產生，原因與結果有著本質的區別，結果在生起前並不潛藏在原因之中。]又這兩種外道執著諸法在事相上是不同，把這些﹝事相﹞攝到有情﹝來、去﹞中，為了破斥這些，故說“不來”、“不去”。
+　　　問：若是無境，則不會生起滅等名的差異，是故若是有﹝境﹞，則所思惟“滅”（37.1.1）等異名諸法皆存在。答：﹝你說﹞「若名、具名(物本身) 是成立的，則“滅”等不同名亦可成立」這是不合理的。何以故？名與具名是一或是異呢？二者皆不合理。何以故？若名即是具名，則只有一個具名(物本身)存在。若說是“一”，在說「火」時，則將會燙口，將說不出話來。
+[ （31b.5，37.1.4）]又聲論師，為了區分作者、作事而安立﹝相異﹞，故此二者非是一。又如果名是不同，具名亦是不同，則成相異，此二者將成無因，是故不承許。又如果具名的名是合理，則無具名的名，或無名的具名是不合理。是故在某物上安立名字，此二者﹝名、具名﹞亦是不相異。如此，因成立名與具名二者是“一”、“異”皆不合理，是故﹝執﹞“滅”等名（32a.1）之差別是不能成立。
+﹝2.4聖言量﹞
+　　　又從聖言量之經教：「名如陽焰，若如陽焰則為顛倒，顛倒非真實。分別﹝增益﹞不真實的名，（37.2.1）說是真實，這是不合理的。」是故，從聖言量亦是不成立名與具名二者。若此二者不成立，分析探討“滅”等名言，亦是不可成立的。
+﹝2.5譬喻﹞
+　　　[ （32a.2，37.2.2）]是故，不承許“滅”，何以故？因在世間可見，如同在世間可見諸法不滅。劫初之香稻等類之物，如果滅了，則當今看不到香稻等，因看見﹝香稻等﹞，故“不滅”。
+　　　問：那麼有生？答：不生。何以故？因在世間可見，如同在世間可見諸法不生。在劫初之香稻等類之物是不存在，如果沒有，而當今能看見香稻等，則可說有生。因看不見﹝劫初之香稻等﹞，故“不生”。
+　　　問：有斷？答：不斷。何以故？因在世間可見，如同在世間可見諸法不斷，看見香稻種子生出香稻苗等，若是斷，將看不到﹝苗﹞生起，（38.1.1）因看見生起，故“不斷”。
+　　　問：有常？答：不常。何以故？因在世間可見，如同（32b.1）在世間可見諸法是常，是不合理。苗時看不到香稻種子，因苗時種子就離開(沒有)，故不常。應思惟一切諸法如同香稻種子﹝不常﹞。
+　　　問：若如此，則諸法將是同一性質？答：何以故？非一，因在世間可見，如同在世間可見諸法不一，香稻種子不是苗。若是一，則不會有種子與苗﹝二種﹞不同的講法（稱呼），能說他們是不同，故是“不一”。
+　　　問：若不承許是一，則諸法是異？答：不異。何以故？如同在世間可見諸法不異。如果承許是異，則確定稱為「香稻種子、香稻苗、香稻葉」等，怎麼不會變成「樹種子、樹苗與樹[ ko dra ba意義不明，故依《青目釋》譯為「樹」。香稻種子、香稻苗與香稻葉，同稱為「香稻」，別於「樹」，樹種子、樹苗與樹葉。]葉」？因﹝實際上﹞不是這樣，故“不異”。
+　　　問：有來？答：不來。何以故？因在世間可見，如同在世間可見諸法不從任何地方來。若香稻的苗來了，必不會在香稻種子上安住。若苗從其他地方來，定能在種子上安住，（33a.1）如同看見鳥類﹝其他地方來﹞在樹上安住一樣。因看不見，故不來。
+　　　[ （33a.1，38.2.5）]問：有去？答：不去。何以故？因在世間可見，如同在世間可見諸法不去，看見香稻苗不走向種子。若有去，如同看見山中蛇一樣，因看不見，故不去。
+　　　是故先觀察分析“滅”等﹝名言自性有﹞不合理。
+　　　
+
+《根本中論佛護注》[ 簡稱《佛護論》。]
+
+[ （158b.1，178.2.3）]梵文：BuddhapAlita-mUlamadhvamakavRtti
+藏文：根本中論佛護注。第一卷
+頂禮三寶。
+頂禮聖文殊師利童子。
+頂禮聖龍樹阿闍梨。
+頂禮尊者佛護阿闍梨。[ 此敬禮應是西藏譯師所加，論主不可能頂禮自己。]
+﹝1.總釋皈敬偈﹞
+　　　於此﹝龍樹﹞阿闍梨想開示緣起，如實地現見緣起甚深﹝義﹞，相信﹝緣起﹞稀有難得而眼睛落淚，身毛豎起，雙手合掌置頭頂上，[ 如《入中論》（法尊譯，p.76）所說「若異生位聞空性，內心數數發歡喜，由喜引生淚流注，周身毛孔自動豎，彼身已有佛慧種，是可宣說真性器，當為彼說勝義諦，彼器隨生諸功德」，指龍樹是具空性法器者。]﹝世尊﹞如在﹝自己﹞眼前一樣，說出如來法身的勝義諦偈頌，以﹝說法中第一之﹞因[ 如此頌所言，佛是說法中第一，因說了八不緣起，齋藤明（1984，p.220.n.2）。]頂禮如來、最上師：
+佛宣說緣起，不滅亦不生，不斷亦不常，不來亦不去，
+不異亦不一，息戲論寂滅，我向其頂禮，說法中第一。[ 《藏要》本校勘依藏文《明句論》譯為「由正覺說緣起，緣起不滅等，息戲論而寂滅，是諸說法中勝，今此歸敬彼。」因在此論結頌時，為破執著，而先說不滅。暫依梵文《明句論》譯出。]
+　　　﹝此頌意義﹞即指：頂禮於諸說法中第一之正等正覺諸佛，諸佛對主張自在天（IZvara）、時（kAla）、微塵（paramANu）、自性（prakRti）、本性（svabhAva）等（179.1.1）稠密戲論而徬徨的世間，開示甚深勝義諦，不滅、不生，不斷、不常，不來、不去，不異、不一，息滅一切戲論，是走向涅槃城，寂滅之正道。﹝龍樹﹞阿闍梨真實看見﹝明白﹞，薄伽凡了解一切外道異論如愚夫之言論，而為如盲目觸摸的人，（159a.1）開示緣起，故稱說﹝佛是﹞諸說法中第一。
+　　　﹝此頌之﹞“不滅”是沒有滅，其他句(八不)亦如是配合。此偈頌如同經一樣﹝是根本﹞，論的其他﹝27品偈頌﹞是來解釋此﹝偈頌﹞。又因﹝有人﹞執著於所說﹝語言﹞，故用各種方式﹝解說﹞，而不依次第﹝解說﹞。
+﹝2.開示緣起的目的﹞
+　　　問：開示緣起目的是什麼？答：因為具大悲本質的﹝龍樹﹞阿闍梨看見眾生為眾苦所逼迫，為使他們解脫，故想要開示諸法之真實義，因此著手開示緣起。因為經中：「不見真實者是束縛，見真實者得解脫。」問：何為諸法之真實義？答：無自性。無智者為無明（179.2.1）黑暗蒙蔽了智慧，當分別﹝增益諸法有﹞自性時，在這些﹝法上﹞生起貪、瞋。當﹝生起﹞緣起智慧之光，斷無明黑暗，智慧眼現見諸法無自性之時候，不會在﹝幻化﹞不存在點上，生起愛惡。
+　　　這就像有人對變現幻化婦女生起﹝真實﹞婦女念頭，而產生種種欲念，各種相關的意識﹝心、心所﹞，在此﹝變現幻化婦女境上﹞起分別。當證悟真實義時，不會生起﹝美醜﹞婦女的心念﹝生起﹞，遠離欲貪，生起大慚愧心，如同譏笑自己在不存在﹝變現幻化婦女境上﹞，生起欲貪。如薄伽凡教誡：「諸比丘！在婦女中，看不見真實內在婦女之根。（159b.1）諸比丘！只要是婦女，皆看不見有真實婦女之根。」因此，聖天（提婆）亦曾開示：「心識是﹝三﹞有種子，各種境即是其（心識）行境（所行處）。若在境上看見無我，則﹝三﹞有種子將滅盡。」是故，﹝龍樹﹞阿闍梨為了解說諸法無自性，故造此﹝論說緣起﹞。
+　　　問：一切智、洞見一切、具大悲的如來用各種方式已經開示種種緣起，﹝現在龍樹﹞又再說明一次有什麼目的？答：如來確實已說過、開示過緣起，（180.1.1）﹝確實如來﹞以世間名言生滅等說過、開示過﹝緣起﹞，但是如今有人執著所說名言，而不能了悟甚深緣起，認為諸法確實存在，因為生、滅、去、來是言詮。因為是存有，而心造作﹝分別﹞常、斷、一、異，但不是﹝如﹞兔角不存在。﹝龍樹﹞阿闍梨為了向這些人開導緣起之特質，所以先引出正理與經教，來著手開示緣起。
+　　　如來開示、教導緣起，是故阿闍梨接著說明﹝緣起﹞是合理，若﹝佛﹞未說過、開示過﹝緣起﹞，﹝龍樹﹞阿闍梨怎麼可以談﹝緣起﹞呢？是故，﹝龍樹﹞阿闍梨開示說明﹝緣起﹞是合理的。如同世上諸論亦是過去阿闍梨們已說過、開示過，現今再由他們的弟子們來做解釋。是故，﹝龍樹﹞阿闍梨（160a.1）開示﹝緣起﹞是合理的。
+﹝3.為何說八不﹞
+　　　問：何故破斥滅等八種呢？只有﹝談﹞「不滅、不生、不斷、不常」不夠吧？答：因為主張諸法有自性者，一般都因﹝世俗﹞名言，而主張滅等八種是自性有，是故，要破斥滅等八種。
+　　　（180.2.1）同樣地，不管是思惟或諍論真實的人，這些人都是依滅等之義，而思惟及諍論﹝諸法自性有﹞。﹝其中﹞有人（分別說部，VaibhASika）說：「諸法在剎那間具生滅性之法，就是相續生起。」有人（勝論派，VaiZesika）說：「地等九種物質是常。」[ 勝論派所主張「六句義」（萬法的六種範籌，padArtha）中「實句義」（實體、本體，dravya）的九種實體，即地、水、火、風、空、時、方、我、意（pRthivI、ap、tejas、vAyu、akAsa、kAla、dis、atman、manas），黃懺華（1983, p.70）]又有人（耆那教，Jaina）說：「法、非法、補特伽羅、虛空、時、命等六種物質是常。」[ 耆那教主張一切法可分為命（jIva）—精神靈魂個體、非命（ajIva）—物質個體，其中非命又分成：補特伽羅、法、非法、虛空、時間、樂、苦。、pudgala、dharma、adharma、、AkAza、kAla、sukha、duHkha），Rasgupta（1998, p.182、187）]同樣地，﹝這些主張諸法有自性者﹞大致上是諍論身、命二者，火、薪二者，因、果二者，功德、具功德二者，支分、具支分二者是一或異。同樣有人（勝論派）說：「具功德、業與常（細身，liGga）是輪轉。」[ 勝論派所主張「六句義」中的實句義（dravya）、德句義（guNa）、業句義（karma），此三種是指法的實體、屬性、運動。萬有由實、德、業（體、相、用）三種原理結合成立，是勝論哲學的基礎概念，黃懺華《印度哲學史綱》（1983, p.68）。故「常」應是指實體，「圓輪」（Hkhor lo）不能確定其意義為何，也許是指實、德、業三種的結合，不可分離的諸法情形。]其他人（順世外道，LokAyata）說：「微塵、與心是不去。」其他人（耆那教等）說：「命與常有去。」亦承許「存在後可到任何地方。」[ 「不去」應是斷見，外道中斷見的是順世外道，常見有數論派、勝論派、正理派、耆那教等等，《土觀宗派源流》（劉立千譯，p.11）。]是故，因這樣思惟與諍執﹝有自性﹞，故要破斥滅等這八種。
+﹝4.生、滅無一定次序﹞
+　　　問：那麼何故先破「滅」，後破「生」，理應先討論「不生」？答：無過失。何以故？因為對於精通﹝語言﹞文字﹝文法﹞者，前後﹝次序﹞安排是有必要，但對其他人是沒有必要的。
+　　　問：「雖是如此，（160b.1）但若有生，必將有滅，若無生，則無滅。依次第應先討論“不生”。」答：朋友！（181.1.1）舉例﹝證明﹞使我們相信「先生後滅」。問：「所說﹝每件事﹞皆是例子，何以故？若生是無意義，何故有生，有病、老、死、痛苦、殺害、束縛等仇敵？」答：如果死是有，則生是先有死在前。若非先有死，則輪迴將成有始之過失。所以因輪迴是無始終，故不可說先生後死或說先死後生。「若先有生，後有老死，將導致生是無老死及不死亦會生」[ 此段文出自《中論》第11品第3頌「若使先有生，後有老死者，不老死有生，不生有老死。」]的過失。
+　　　問：「若沒有很多危險，就不會有不幸（anartha）產生。例如，若樹木不生，則不會有風吹來森林大火。」答：這﹝與前例﹞有何不同？問：不相同。因為在此例中，不會先有滅的生。如是不會有樹林在其他地方滅亡，在此處生起。答：此例生起亦是在種子滅之後，故此亦是在滅之後再生起。問：「這是不相同，何以故？因為此物滅，另一物生起，如同種子滅了，生出芽，而不是芽滅了，生出芽，是故此﹝二物﹞是不同。」答：這是相同的，何故？如是生滅二者，﹝同一物﹞死是不會﹝同一物﹞生起。（181.2.1）若此死了同一物生，則必成常的過失了。（161a.1）﹝如同﹞天人又是生天，畜生又是墮畜生。若是這樣，則業、煩惱所造之生﹝有﹞與輪迴，將成為不錯亂﹝是常﹞，這是不被接受的。不可說此死了同一物生，是故這是相同。
+　　　﹝後一例﹞你說：「此死了另一物生」，這亦是不合理。若種子與芽二者是相異，則此二者將是沒有世俗﹝安立﹞的因果﹝關係﹞。因有世俗﹝因果關係﹞，故此二者非異。又撒下種子說：「我種了這棵樹，我生了兒子，這棵樹是我的，此兒是我的。」若種子、樹與﹝精子、﹞兒子是相異，則世俗假名是不存在。因﹝世俗假名﹞存在，故不能說種子與芽是相異的。又（《中論：》）「從其他而生則成相異。沒有其他，不會有相異其他者。凡是從他而生者，則不能異於他。」[ 《中論．觀和品》第五頌，
+「異因異有異，異離異無異，若法所因出，是法不異因。」
+anyad anyat pratItyAnyan nAnyad anyad Rte 'nyataH/ 
+yat pratItya ca yat tasmAt tad anyan nopapadyate//]
+　　　問：「即使是這樣，若種子是存在的，則將會滅，若﹝種子﹞沒有﹝存在，則不會滅﹞，所以應先生後滅。」答：像這樣的種子，也是種子先滅，何以故？樹不會異於芽，種子也不會異於樹，所以種子先滅後，芽再生起。種子（182.1.1）生起也是在種子先滅後。如是聖天（提婆《百論》）亦說：「例如，可知種子是有邊，但是無始的，如生起不會沒有因。」[ 提婆《百論》，在《明句論》第11品亦引用，梵文：
+yathA bIjasya dRSTo 'nto na cAdis tasya vidyate/ 
+tathA kAraNavaikalyAj janmano 'pi na saMbhavaH// 藏文：
+ji ltar sa bon mthaH mthoG shiG/ de la thog ma yod min ltar/
+de bshin rgyu ni ma tshaG phyir/ skye baHaG HbyuG bar mi Hgyur ro// 參見齋藤明（1984，p.221.n.16）
+雖然是無始的生起，但不會是無因的生起，否則與因果相違，所以生起之前，是先有滅之因。]是故，（161b.1）不安立生、滅前後，不應非難：「何以故先破滅，後破生？」為了說明此二者是沒有前後，是故在這裡﹝序分頌﹞，﹝龍樹﹞阿闍梨先取滅，後探討生。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　dBu ma rtsa baHi Hgrel pa ga las Hjigs med
+　　　
+　　　
+　　　（29b.1，34.1.2）rgya gar skad du/ mUlamadhyamika-vRtti-akutobhaya/ bod skad du/ dbu ma rtsa baHi Hgrel pa ga las Hjigs med/ bam po daG po// 
+　　　dkon mchog gsum la phyag Htshal lo// Hjam dpal gshon nur gyur pa la phyag Htshal lo//（34.1.4） slob dpon （29b.2）Hphags pa klu sgrub la phyag Htshal lo// gaG gis skye daG Hjig pa dag/ Hdi yi tshul gyis rab spaGs pa/ rten ciG Hbrel HbyuG[ （P）rten ciG HbyuG ba] gsuG ba yi/ thub dbaG de la phyag Htshal lo//
+　　　gaG（34.1.5）gis rten ciG Hbrel par HbyuG/ Hgag pa med pa skye med pa/ chad pa med （29b.3）pa rtag med pa/ HoG ba med pa Hgro ba med pa/ tha dad don min don gcig min/ spros pa Jer shi shi bstan pa/（34.1.6）rdsogs paHi saGs rgyas smra rnams kyi/ dam pa de la phag Htshal lo// she bya ba ni gaG gi Hdul baHi sems can dbaG phyug daG/ skyes bu daG/ gJi（29b.4）ga daG/ dus daG/（34.1.7）raG bshin daG/ Ges pa daG/ Go bo Jid daG/ Hgyur ba daG/ rdul phran gyi rgyus log par shugs pa/ rgyu med pa daG/ rgyu mi mthun pa daG/ chad pa daG/ rtag（34.1.8）par lta ba la mGon par shen pa/ chos kyi sku mthoG ba lkog tu gyur pa/ bdag tu lta ba de daG de la mGon par（29b.5）shen pa de daG de dag[ （P）後接gi表屬格。] rgyu med pa daG/ rgyu mi mthun pa daG/ chad pa daG rtag（34.2.1）par lta ba daG[ （P）無daG。] rnam par bzlog paHi phyir daG/ chos kyi sku rtogs par bya baHi phyir daG/ bdag tu lta ba de daG/ de rnam par bzlog parHi phyir Zas cher yoGs su sbyaG ba byas pa/ blo rgya（34.2.2）chen po daG ldan pa zab mo bstan（29b.6）paHi snod du gyur pa rnams la sGar smos paHi rten ciG Hbrel par HbyuG ba Hgag pa med pa/ skye ba med pa/ chad pa med pa/ rtag pa med pa/ HoG ba（34.2.3）med pa/ Hgro ba med pa/ don tha dad pa ma yin pa/ don gcig ma yin pa spros pa thams cad Je bar shi ba shi bar gyur pa bstan pa rdsogs paHi（29b.7）saGs rgyas smra ba rnams kyi dam pa de la（34.2.4）phyag Htshal lo// shes bya ba yin no// de bshin gZegs paHi bstod pa brjod pa phyag Htshal baHi bya ba Je bar gdags pa daG ldan Hdis ni don dam paHi bden yoGs su bstan pa（34.2.5）yin no//
+　　　de la Hgag pa med pa shes bya ba ni rten ciG Hbrel par（30a.1）HbyuG ba Hdi la Hgag pa yod pa ma yin pa ste/ ciHi phyir she na/ skye ba med paHi phyir ro// 
+　　　skye ba med pa shes bya ba ni/（34.2.6）Hgag pa med paHi phyir ro// 
+　　　chad pa med pa shes bya ba ni sa bon daG myu gu yin no// 
+　　　rtag pa med pa shes bya ba ni sa bon daG myu guHi yin gyi dGon po（30a.2）bshin no// 
+　　　HoG ba med pa Hgro ba（34.2.7）med pa shes bya ba ni nam mkhaH bshin no// 
+　　　tha dad don min shes bya ba ni/ Hbras sA lu[ 香稻（P）Hbras sa lu。]Hi Hbras bu bshin no// 
+　　　don gcig min shes bya ba ni Hbras sA luHi sa bon bshin no// tshig lhag ma（34.2.8）rnams la yaG de bshin du ci rigs par tshig sbyar ba brjod（30a.3）par byaHo// 
+　　　Hdir smras pa/ ciHi phyir rnams pa brgyad po de dag Hgog par byed/ Hdir bZad pa/ rten ciG Hbrel par HbyuG（35.1.1）ba Hdi tha sJad kyi bden par bstan pa la/ don dam paHi bden pa la Hjug pa dag Hgag pa la sogs paHi tshig rnam pa brgyad kyis mGon par shen pa de bzlog paHi phyir/（30a.4，35.1.2）Hgag pa med pa la sogs paHi tshig brgyad po dag smos so//
+　　　Hdir smas pa/ Hon ciHi phyir Hgag pa med paHi sgra sGar smos[ （P）加so. ]/ Hdir bZad pa/ Hdi ltar re shig skye baHi sgra sGar brjod（35.1.3）par Ges mod kyi/ Hon kyaG tshigs su bcad pa sbyar baHi dbaG gis Hgag pa med paHi sgraHi sbyor ba（30a.5）sGa ba la Hgal ba med do//
+　　　yaG na/ Hgag pa shes bya baHi miG la dGos por mGon par shen（35.1.4）pa rnams kyi mGon par shen pa de spaG paHi phyir te/ bcom ldan Hdas ma zes rab kyi pha rol tu phyin pa[ （P）phyi ba] las/ rab Hbyor Hdi ji sJam du sems/ sems Hgags pa[ （P）Hgag pa，表現在式。] gaG yin pa de yaG skye bar（35.1.5）Hgyur（30a.6）ram/ gsol pa/ bjom ldan Hdas de ni mi Hgyur ro// bkaH stsal pa/ rab Hbyor Hdi ji sJam du sems/ sems skyes pa[ （P）bskyed pa] gaG yin pa de Hgag paHi chos can yin nam/ gsol（35.1.6）pa/ bcom ldan Hdas Hgag paHi chos can ma lags so// bkaH stsal pa/ rab Hbyor Hdi ji sJam（30a.7）du sems/ Hgag paHi chos can gaG yin pa de Hgag par Hgyur ram/ gsol pa/ bcom（35.1.7）ldan Hdas de[ （P）加ni] mi Hgyur ro// bkaH stsal pa/ rab Hbyor Hdi ji sJam du sems/ ma skyes pa gaG yin pa de Hgag paHi chos can yin nam/ gsol pa/ bcom ldan Hdas de ni ma lags so//（30b.1，35.1.8）bkaH stsal pa/ rab Hbyor Hdi ji sJam du sems/ Hgag paHi chos can gaG yin pa de skye bar Hgyur ram/ gsol pa/ bcom ldan Hdas de ni mi Hgyur ro// bkaH stsal pa/ rab Hbyor（35.2.1）Hdi ji sJam du sems/ sems Hgag paHi chos can gaG yin pa de Hgag par Hgyur（30b.2）ram/ gsol pa/ bcom ldan Hdas de ni mi Hgyur ro// bkaH stsal pa/ rab Hbyor Hdi ji sJam du sems/（35.2.2）chos raG bshin gyis Go bo Jid med ciG Hgags pa gaG yin pa de Hgag par Hgyur ram/ gsol pa/ bcom ldan Hdas de ni mi Hgyur ro// shes ji skad gsuGs（30b.3）pa lta bu ste/ de ltar gaG（35.2.3）gi phyir Zes rab kyi par rol tu phyin pa Jid las Hgag paHi chos can la Hgag par Hgyur baHi rim pa tha sJad gdags par mdsad pa deHi phyir Hgag pa med paHi sgraHi sbyor ba sGar smos so// 
+　　　（35.2.4）yaG na Hgag pa med pa shes bya baHi sgraHi don ni chad pa med pa[ （P）漏med pa] shes byaHi（30b.4）sgraHi bar du gcod pa daG Hbrel par snaG baHi phyir Hgag pa med paHi sgraHi sbyor ba sGar smos te/ gaG gi phyir chad pa med pas（35.2.5）Hgag pa med de/ Hdi na gaG chad par Hgyur ba de Hgog par Hgyur ba de lta ma yin pa deHi phyir Hgag pa med do// gaG gi phyir skye ba med pa shes bya baHi sgraHi don ni rtag pa（30b.5）med pa shes bya baHi（35.2.6）sgraHi[ （P） 無Hi] bar du chod pa daG Hbrel par snaG baHi phyir Hgag pa med paHi sgraHi mjug thogs su skye ba med pa smos so// gaG gi phyir Hgag pa med pas chad pa med de/ Hdi na gaG Hgag par Hgyur ba （35.2.7）de chad par Hgyur ba de lta ma yin pa deHi phyir chad pa med do//gaG gi phyir（30b.6）skye ba med pas rtag pa med de/ Hdi na gaG skye bar Hgyur ba de rtag par Hgyur ba de lta ma yin ba deHi phyir rtag pa med（35.2.8）do// 
+　　　da ni gshan du brtags te/ Hgag pa med pa ni Hgags pa daG ma Hgags pa[ （P）Hgag pa，表現在式。] dag la Hgags pa mi Hthad paHi phyir ro// skye ba med pa ni Hpho ba med par mi hthad paHi（30b.7）phyir ro// de la（36.1.1）sGa maHi rnam graGs gshan yaG Hgag pa med pa ni de las gshan paHi gnas skabs la Hgag pa mi Hthad paHi phyir ro// brtag pa gshan yaG Hgag pa med pa ni lus daG（36.1.2）miG mi Hthad pa[ （P）HzaG pa]Hi phyir ro// skye ba med pa la yaG lus daG miG mi Hthad pa Jid kyi phyir/
+　　　rnam（31a.1）graGs gshan yaG Hgag pa med pa ni Go bo Jid yod par mi Hthad paHi phyir ro// skye ba（36.1.3）med pa yaG Go bo Jid yod par mi Hthad pa Jid kyi phyir ro// brtag pa[ （P）rtag pa] gshan yaG Hgag pa med pa ni Go bo Jid stoG paHi phyir ro// skye ba med pa yaG Go bo Jid stoG pa Jid kyi phyir ro// 
+　　　（31a.2）rnam graGs（36.1.4）gshan yaG chad pa med pa ni Hgag pa med paHi phyir ro// rtag pa med pa ni skye ba med paHi phyir ro// don tha dad pa ma yin pa ni skye ba med paHi phyir ro// don gcig pa ma yin pa ni（36.1.5）Hgag pa med paHi phyir ro// HoG ba med pa ni skye ba med paHi phyir ro// Hgro ba med pa ni（31a.3）Hgag pa med paHi phyir ro// brtag pa gshan yaG skye ba daG Hgag pa med pa[ （D）skye ba ni Hgag pa med pa，「生是不滅」意義不連貫。]Hi phyir lhag（36.1.6）ma thams cad la de bshin du mGon par shan pa dag med do//
+　　　brtag pa gshan yaG gaG la brten nas gaG HbyuG ba de ni gaG gi phyir de Jid kyaG ma yin la gshan yaG ma yin pa deHi phyir（36.1.7）rnam pa gsum（31a.4）las[ （D）pas] kyaG de la skye ba mi Hthad pas deHi phyir skye ba med do// deHi phyir skye ba med paHi phyir HoG ba med do// HoG ba med paHi phyir Hgro ba med do// rnam graGs gshan yaG gaG la（36.1.8）brten nas gaG HbyuG ba de ni gaG gi phyir de Jid ma yin pa deHi phyir rtag pa med do// gaG gi phyir gshan ma yin pa（31a.5）deHi phyir chad pa med do// Hdi ni brtag pa gshan te/ gaG la brten nas（36.2.1）gaG HbyuG ba ni gaG gi phyir de Jid ma yin pa deHi phyir don gcig pa ma yin no// gaG gi phyir gshan ma yin pa deHi phyir don tha dad pa ma yin no// 
+　　　Hdi ni rnam graGs gshan te/ gaG la brten nas（36.2.2）gaG HbyuG ba de ni Go bo Jid（31a.6）med de[ （D）do]/ Go bo Jid med paHi phyir skye ba med do// skye ba med paHi phyir don gcig pa ma[ （D）缺ma] yin pa daG/ don tha dad pa ma yin no// skye ba med pa kho naHi phyir HoG（36.2.3）ba med pa daG Hgro ba med do// Hdi ni rnam graGs gshan te/ gaG la brten nas gaG HbyuG ba de ni Go bo Jid med de/ Go bo Jid med paHi phyir Hgag（31a.7）pa la sogs paHi miG gi khyad par（36.2.4）thams cad kyi Go boHi mGon par shan par[ （D）kyis mGon par shan par，略Go boHi。] bya ba ma yin no// 
+　　　Hdi ni rnam graGs gshan te/ de la tshig sGa ma bshi po Hgag pa med pa la sogs pa rtag pa med paHi mthar thug pa dag ni phal（36.2.5）cher raG gi gshuG lugs kyi khoGs su gtogs pa yin pas de dag ni（31b.1）rnam par bZad zin to// 
+　　　phyi ma gaG dag yin pa de dag ni gshan gyi gshuG lugs kyi khoGs su gtogs pa yin pas de dag rnam（36.2.6）par gzad par bya ste/ graGs can dag ni rgyu daG Hbras bu gcig go shes kun tu bsgrubs pas de bzlog paHi phyir don gcig pa ma yin no// bye brag pa（31b.2）dag ni rgyu daG Hbras bu tha dad do shas kun tu bsgrubs （36.2.7）pas de bzlog paHi phyir don tha dad pa ma yin no// de dag gJis ka yaG dGos po rnams la bya ba rnam pa tha dad pa dag yod par mGon par shen pas de dag Hgro ba dag tu bsdus nas de dag（36.2.8）bzlog paHi phyir HoG ba med pa daG Hgro ba med pa（31b.3）bstan to//
+　　　Hdir smras pa/ don med na Hgag pa la sogs paHi miG gi khyad par dag mi HbyuG bas[ （D）dag pa min HbyuG bas] deHi phyir gaG dag yod na Hgag（37.1.1）pa la sogs paHi miG gi khyad par dag HbyuG bar bsam paHi dGos po rnams yod do// Hdir bzad pa/ miG daG miG can dag rab tu grub na（31b.4）ni Hgag pa la sogs pa de（37.1.2）dag gi miG gi khyad par dag kyaG rab tu Hgrub par Hgyur graG na/ de dag ni mi Hthad do// ji lta[ （P）ji ltar] she na/ Hdi la miG daG miG can dag gcig pa Jid dam tha dad pa Jid du Hgrub par Hgyur graG na/ gJis（37.1.3）ka ltar yaG mi Hthad do// ciHi phyir she na/ re shig gal te（31b.5）miG gaG yin pa de Jid miG can yin par gyur na de lta na miG can gcig pa Jid du Hgyur te/ de ltar gcig pa Jid yin na me shes brjod pa（37.1.4）na kha tshig par Hgyur ba rigs na tshig par ni mi Hgyur ro//
+　　　gshan yaG Hdi na sgra la mkhas pa dag byed pa po daG las rnams par dbyed baHi phyir kun tu（31b.6）bsgrubs pas deHi phyir de gJis gcig pa Jid ma（37.1.5）yin no// ci ste miG yaG gshan la miG can yaG gshan yin par gyur na ni de lta na tha dad pa Jid yin te/ de gJis rgyu med pa Jid du Hgyur bas de ni mi Hdod do// miG can gyi miG yaG Hthad pa（37.1.6）yin na miG can med na de gaG gi miG（31b.7）yin[ （D）can]/ miG med par yaG miG can shes bya ba mi Hthad de/ gaG gi de la miG du btags par gyur pa deHi phyir de gJis tha dad pa Jid kyaG ma yin no// de ltar gaG（37.1.7）gi phyir miG daG miG can de gJis gcig pa Jid daG tha dad pa Jid du Hgrub par mi Hthad pa deHi phyir Hgag pa la sogs paHi miG（32a.1）gi khyad par rnams mi Hgrub po//
+　　　gshan yaG[ （P） 在gshan yaG之前，多yaG] luG gi tshad ma（37.1.8）las kyaG mdo sde las/ miG ni smig rgyu Hdra ba ste/ gal te smig rgyu Hdra ba yin na phyin ci log yin la/ gaG phyin ci log pa de ni yaG dag pa ma yin no// gaG yaG dag pa ma yin paHi miG du rnam（37.2.1）par（32a.2）rtog pas rab tu phye ba de ni[ （D）des] yaG dag pa shes bya bar mi rigs so shes gsuGs pas/ deHi phyir luG gi tshad mas kyaG miG daG min can de gJis su mi Hgrub ste/ de gJis ma grub na Hgag（37.2.2）pa la sogs paHi miG du rnam par rtog pa dag mi Hgrub po// 
+　　　HdiHi phyir yaG Hgag pa（32a.3）mi Hthad de/ ciHi phyir she na/ Hjig rten na mthoG baHi phyir te/ Hdi ltar Hjig rten na dGos po rnams（37.2.3）Hgag pa med pa shes bya ba mthoG ste/ Hdi lta ste/ bskal pa daG poHi Hbras sA lu la sogs paHi dbye ba gaG dag Hgag pa de dag gal te Hgag par gyur na da ltar gyi dus（32a.4）na（37.2.4）Hbras sA lu la sogs pa dag mi snaG bar Hgyur ba shig na/ snaG bas deHi phyir Hgag pa med do// 
+　　　Hdir smras pa/ Ho na skye ba yod do// Hdir bzad pa/ skye ba med do// ciHi phyir she na/（37.2.5）Hjig rten na mthoG baHi phyir te/ Hdi ltar Hjig rten na dGos po rnams skye ba med pa（32a.5）shes bya ba de mthoG ste/ Hdi lta ste/ bskal pa daG poHi Hbras sA lu la sogs pa gaG dag yin pa de dag med（37.2.6）pa[ （P）par] da ltar gyi Hbras sA lu la sogs pa HgaH yaG med de/ gal te de dag med par da ltar gyi dus kyi Hbras sA lu la sogs pa dag snaG bar gyur na ni/ skye ba yod do shes smra bar rigs pa（32a.6）shig（37.2.7）na/ mi snaG bas deHi phyir skye ba med do// 
+　　　Hdir smras pa/ chad pa yod do// Hdir bzad pa/ chad pa med do// ciHi phyir she na/ Hjig rten na mthoG baHi phyir te/ Hdi ltar Hjig rten na（37.2.8）dGos po rnams chad pa med pa shes bya ba de mthoG ste/ Hbras sA luHi sa bon las Hbras sA luHi myu gu（32a.7）la sogs pa dag HbyuG ba mthoG Go// gal te chad pa yin na HbyuG ba Jid mi dmigs par（38.1.1）Hgyur ba shig na/ HbyuG ba dmigs pas deHi phyir chad pa med do//
+　　　Hdir smras pa/ rtag pa yod do/ Hdir bZad pa/ rtag pa med do/ ciHi phyir she na/ Hjig rten na mthoG（38.1.2）baHi phyir te/ Hdi ltar（32b.1）Hjig rten na dGos po rnams rtag par mi Hthad pa shes bya ba de mthoG ste/ Hbras sA luHi sa bon myu guHi dus na mi dmigs te/ de ltar gaG gi phyir myu guHi dus na/（38.1.3）sa bon ldog pa deHi phyir rtag pa ma yin no//  Hbras sA luHi sa bon ji lta ba de bshin du dGos po thams cad kyaG[ （D）缺kyaG] bsam par（32b.2）byaHo//
+　　　Hdi smas pa/ gal te de ltar na/ deHi[ （D）de phyir] phyir dGos（38.1.4）po rnams don gcig pa Jid du Hgyur ro// Hdir bzad pa/ don gcig pa ma yin no// ciHi phyir she na/ Hjig rten na mthoG baHi phyir te/ Hdi ltar Hjig rten na dGos po rnams don（38.1.5）gcig pa Jid ma yin pa shes bya ba de mthoG ste/（32b.3）Hdi na Hbras sA luHi sa bon myu gu ma yin no// gal te don gcig pa Jid yin na/ sa bon daG myu gu shes tha dad par rjod par de dag byed（38.1.6）par mi Hgyur ba shig na/ de dag tha dad par rjod par byed pas deHi phyir don gcig pa ma yin no// 
+　　　Hdir smras pa/ gal te don gcig pa Jid du mi（32b.4）Hdod na/ des na dGos po rnams don（38.1.7）tha dad par Hgyur ro// Hdir bzad pa/ don tha dad pa ma yin no// ciHi phyir she na/ Hjig rten na mthoG baHi phyir te/ Hdi ltar Hjig rten na dGos po rnams don tha dad pa ma yin pa（38.1.8）Jid mthoG ste/ Hdi na Hbras sA luH so bon daG Hbras sA luHi（32b.5）myu gu daG/ Hbras sA luHi Hdab ma shes bya ba la sogs pa dag mthoG Go//
+　　　de la gal te don tha dad pa Jid du Hdod na/（38.2.1）Hbras sA luHi sa bon daG Hbras sA luHi myu gu daG/ Hbras sA luHi Hdab ma shes Ges pa kho nar Hdi ji ltar smra bar Hgyur/ ko dra baHi sa bon daG/ ko dra baHi myu[ （D）rgyu]（32b.6）gu daG/ ko dra baHi（38.2.2）Hdab ma shes bya baHi yaG ciHi phyir mi Hgyur ba/ gaG gi phyir de ltar mi Hgyur ba deHi phyir don tha dad pa ma yin no// 
+　　　Hdi smras pa/ HoG ba yod do// Hdir bzad pa/ HoG ba med do//（38.2.3）ciHi phyir she na/ Hjig rten na[ （D）ma ] mthoG baHi phyir te/ Hdi ltar Hjig rten（32b.7）na dGos po rnams gaG nas kyaG HoG ba med pa shes bya ba de mthoG ste/ Hdi ni Hbras sA luHi myu gu gzed nas HoGs（38.2.4）na/ Hbras sA luHi sa bon la Ges par gnas par mi byed do// gal te myu guHi yul gshan gzed nas HoGs te/ sa bon la Ges par gnas par byed par gyur na/ ziG（33a.1）ljon pa la bya（38.2.5）gnas pa gshin du snaG bar Hgyur ba bshin no// de ltar mi snaG bas/ deHi phyir HoG ba med do// 
+　　　Hdi smras pa/ Hgro ba yod do// Hdir bzad pa/ Hgro ba med do// de ciHi phyir she na/（38.2.6）Hjig rten na mthoG baHi phyir te/ Hdi ltar Hjig rten na dGos（33a.2）po rnams Hgro ba med pa shes bya ba de mthoG ste/ Hdi na Hbras sA luHi myu gu sa bon la Hgro ba med par mthoG Go// gal te（38.2.7）Hgro ba yod par Hgyur[ （P）gyur] na ni/ ri la sbrul bshin du snaG bar Hgyur ba shig na/ mi snaG bas deHi phyir Hgro ba med do// de ltar Hjug pa Hdis kyaG Hgag（33a.3）pa la sogs pa dag mi Hthad de[ （D）da] brtag（38.2.8）pa daG poHo//
+
+dBu ma rtsa baHi Hgrel pa buddha-pAlita
+　　
+
+（158b.1，178.2.3）rgya gar skad du/ buddha-pAlita-mUlamadhyamaka-vRtti/ bod skad du/ dbu ma rtsa baHi Hgrel pa buddha-pAliata/ 
+bam po daG po/ dkon mchog gsum la phyag Htshal lo// Hjam dpal gshon nur gyur pa la phyag Htshal lo// slob dpon Hphags pa klu sgrub la phyag Htshal lo// slob dpon btsun pa buddha-pAlita la phyag Htshal lo// 
+　　　Hdi ltar slob dpon rten ciG Hbrel par HbyuG ba rjes su ston par bshed pas/ rten ciG Hbrel par HbyuG baHi zab mo Jid yaG dag pa ji lta ba bshin du gzigs pas Go mtshar du gyur paHi thugs daG ldan pa/ dad pa las byuG baHi mchi ma dkrug ces mdsad paHi spyan mGaH ba/ skuHi spu zin shes mdsad pa daG ldan pas thal mo sbyar ba dbur bshag ste/ de bshin gZegs pa rnams ni chos kyi skuHo shes don dam pa ston paHi tshig su bcad pa Hdi brjod pas mdun du Hdug pa daG Hdra bar bshag nas/ de bshin gZegs pa bla ma dam pa la/
+gaG gis rten ciG Hbrel par HbyuG/
+Hgag pa med pa skye med pa/
+chad pa med pa rtag med pa/
+HoG ba med pa Hgro med pa/
+tha dad don min don gcig min/
+spros pa Jer shi shi bstan pa/
+rdsogs paHi saGs rgyas smra rnams kyi/
+dam pa de la phyag Htshal lo//
+shes rgyu sGa na yod paHi phyag bshes pa mdsad de/ gaG gis dbaG phyug daG dus daG rdul phran daG raG bshin daG Go bo Jid la sogs（179.1.1）par smra ba spros pa thibs por Hkhyams paHi Hjig rten la/ rten ciG Hbrel pa HbyuG ba shes bya ba don dam paHi bden pa mchog tu zab pa/ Hgag pa med pa skye ba med pa/ chad pa med pa rtag pa med pa/ HoG ba med pa Hgro ba med pa don tha dad ma yin pa/ don gcig ma yin pa/ spros pa thams cad Je bar shi ba mya Gan las Hdas paHi groG khyer du Hgro ba/ shi ba lam draG po Hdi bstan pa/ yaG dag par rdsogs paHi saGs rgyas smra ba rnam kyi dam pa de la phyag Htshal lo// shes bya ba yin no// bcom ldan Hdas kyis phyi rol pa phas kyi rgol ba thams cad byis pa bslu ba Hdra bar thugs su chud nas Hgro ba loG ba lag nom byed pa lta bu（159a.1）la rten ciG Hbrel par HbyuG ba bstan par slob dpon gyis yaG dag par gzigs pas smra ba rnam kyi dam pa shed gsuGs so// Hgag pa med pa shes bya ba ni Hdi la Hgag pa yod pa yin paHo// tshig lhag ma rnams la yaG de bshin du sbyar bar byaHo// 
+　　　tshig su bcad pa de ni mdo lta bu ste/ bstan bcos lhag mas de rnam par bZad pa byed par Hgyur ro// de yaG brjod pa la mGon par shen paHi dbaG gis sgo de daG des byed par Hgyur gyi go rims ji lta ba bshin du ni mi byed do//
+　　　ci ste rten ciG Hbrel par HbyuG ba rjes su bstan pa la dgos pa ci yod ce na bZad pa/ slob dpon thugs rjeHi bdag Jid can gyis sems can rnams sdug bsGal sna tshogs kyis Jen par gzigs nas de dag rnam par grol bar bya baHi phyir dGos po rnams kyi yaG dag pa ji lta ba Jid rab tu bstan par bshed pas rten ciG Hbrel par HbyuG ba rjes su bstan pa brtsams te/
+　　　　　　yaG dag ma yin mthoG ba HchiG/
+　　　　　　yaG dag mthoG ba rnam par grol/
+shes gsuGs paHi phyir ro//
+　　　dGos po rnams kyi yaG dag pa ji lta ba bshin Jid gaG yin/
+　　　bZad pa/ Go bo Jid med pa Jid de/ mi mkhas pa gti mug gi（179.2.1）mun pas blo gros kyi mig bsgribs pa ni dGos po rnams la Go bo Jid du rnam par rtog na de dag la Hdod chags daG she sdaG dag skyed par byed do// gaG gi tshe rten ciG Hbrel par HbyuG ba Zes paHi snaG bas gti mug gi mun pa bsal ciG/ zes rab kyi mig gis dGos po rnams kyi Go ba Jid med pa Jid mthoG ba deHi tshe na gnas med pa la deHi Hdod chags daG she sdaG dag mi skyeHo//
+　　　Hdi lta ste dper na la la shig gzugs brJan gyi bud med la bud med do sJam paHi blo gros skyes nas kun tu Hdod chags skyed de de daG Hbrel paHi yid kyis de la rnam par rtog par byed do// gaG gi tshe yaG dag pa ji lta ba bshin du rtogs pa deHi tshe na bud med kyi blo gros med par gyur ciG Hdod chags daG bral nas Zin tu Go tsha ba skyes te/ raG gi sems gnas med pa la Hdod chags skye ba la Hphya ba de daG Hdra ste de ltar bcom ldan Hdas kyis kyaG dge sloG dag bud med la naG gi bud med kyi dbaG po yaG dag par（159b.1）rjes su mi mthoG ste/ dge sloG dag gal te bud med yin na naG gi bud med kyi dbaG po yaG dag par rjed su mi mthoG Go// shes rgya ched bkaH stsal to// deHi phyir slob dpon Hphags pa lhas kyaG/ 
+　　　　　　srid paHi sa bon rnam Zes te/
+　　　　　　yul rnams de yi spyod yul lo// 
+　　　　　　yul la bdag med mthoG na ni/
+　　　　　　srid paHi sa bon Hgag par Hgyur/
+shes gsuGs so// de lta bas na slob dpon gyis dGos po rnams kyi Go bo Jid med pa Jid rab tu bstan paHi phyir Hdi brtsam mo//
+　　　Hdir smras pa/ gaG gi tshe de bshin gZegs pa thams cad mkhyen pa thams cad gshigs pa thugs rje chen po mGaH ba Jid kyis rten ciG Hbrel par HbyuG ba de daG der de lta de ltar bzad ciG rab tu bstan zin na/ yaG de rjes su rab tu bstan pa la dgos pa ci yod/
+　　　bzad pa/ de bshin gZegs pa Jid kyis rten ciG Hbrel par HbyuG ba bZad ciG rab tu bstan（180.1.1）pa bden mod kyi/ Hon kyaG Hjig rten gyi tha sJad kyi dbaG gis skye ba la sogs paHi brjod pa dag gis bZad ciG rab tu bstan pas/ de la da ltar Jid kyaG brjod pa tsam la mGon par shen paHi blo can kha cig rten ciG Hbrel par HbyuG ba mchog tu zab pa ma rtogs pa na/ dGos po rnams ni yod pa kho na yin te/ gaG gi phyir de dag gi skye ba daG Hgag pa daG Hgro ba daG HoG ba dag brjod paHi phyir ro// gaG shig yod pa la rtag pa daG chad pa daG de Jid daG gshan Jid du sems pa dag byed kyi/ ri boG gi rwa la sogs pa med pa dag la de dag mi HbyuG Go sJam du sems pa de dag la rten ciG Hbrel par HbyuG baHi Go bo Jid rab tu bstan paHi phyir slob dpon gyis rigs pa daG luG sGon du btaG ba Hdi brtsams so//
+　　　gshan yaG gaG kho naHi phyir de bshin gZegs pas rten ciG Hbrel par HbyuG ba bZad ciG rab tu bstan pa de kho naHi phyir slob dpon gyis rjes su rab tu bstan par Hthad kyi ma bZad ciG rab tu ma bstan par rjes su rab tu ston par Hos pa de gaG shig yin/ Hdi ltar Hjig rten paHi bstan bcos dag kyaG sGon gyi slob dpon rnams kyis bZad ciG rab tu bstan pas da ltar Jid kyaG de rnams kyi slob ma dag rjes su smra bar byed do// deHi phyir slob dpon gyis（160a.1）rjes su rab tu bstan par rigs so//
+　　　Hdir smras pa/ ciHi phyir Hgag pa la sogs pa brgyad po de dag Hgog par byed/ Hgag pa med pa skye med pa/ chad pa med pa rtag med pa/ shes bya ba de tsam shig byas pas mi chog gam/
+　　　bZad pa/ dGos poHi Go bo Jid smra ba dag phal cher tha sJad kyi dbaG gis bstan pa Hgag pa la sogs pa brjod pa brgyad po de dag gis dGos po yod pa Jid du ston par byed pas deHi phyir Hgag pa la sogs pa brgyad po de dag Jid dgag pa mdsad（180.2.1） do//
+　　　de bshin du de kho na sems par byed paHam/ Hgyed pa rtsom par byed pa gaG dag ci yaG ruG ba de dag kyaG Hgag pa la sogs paHi don de dag la brten nas sems pa daG rtsom par byed de/ Hdi lta ste/ re shig kha cig na re dGos po thams cad ni skye ba daG Hgag paHi chos can skad cig ma ste rgyun gyis rgyun du HbyuG Go// shes sher ro//
+　　　gshan dag na re raG bshin daG skyes bu gJis rtag ces zer ro// gshan dag na re sa la sogs pa rdsas dgu po dag rtag ces zes ro// yaG gshan dag ni chos daG chos ma yin pa daG nam mkhaH daG/ dus daG gaG zag daG srog ces bya ba rdsas drug po dag rtag ces brjod do// 
+　　　de bshin du phal cher srog daG lus gJis/ me daG bud Zin gJis/ rgyu daG Hbras bu gJis/ yon tan daG yon can gJis/ yan lag daG yan lag can gJis ni de Jid daG gshan Jid ces Hgyed par byed do// 
+　　　de bshin du kha cig na re yon tan bya ba daG ldan pa rnams daG rtags Hkhor ro shes zes ro// gshan dag na re rdul phran daG yid gJis ni mi HgroHo shes zer ro// gshan dag ni srog daG gaG zag gJis Hgro ba daG ldan no shes brjod do// grub nas gaG du Hgro bar yaG Hdod do//
+　　　deHi phyir de kho na sems pa daG Hgyed pa rtsom paHi dbaG gis Hgag pa la sog pa brgyad po dgag par mdsad po//
+　　　Hdir smras pa/ Ho na ciHi phyir Hgag pa sGar bkag la/ skye ba phyis bkag/
+　　　skye ba med pa sGar brjod par bya baHi rigs sJam na/ bZad pa/ de ni klan kar mi ruG ste/ ciHi phyir she na/ yi ge la mkhas pa rnams la ni bsdu ba la sbyor ba ltag Hog Ges pa yod kyi/ gshan la ni Ges pa med paHi phyir ro//
+　　　Hdir smras pa/ de lta na yaG（160b.1）skye ba yod na Hgag par Hgyur gyi med na mi Hgyur bas go rims gshin du sGar skye ba med pa shes brjod par bya ba kho nar Hgyur ro//
+　　　bzad pa/ grogs po（181.1.1）Hdi ltar skye ba sGa la Hgag pa HphyiHo// shes bya bar gaG gis kho bo cag yid ched par Hgyur baHi dpe HgaH shig je gyis Zig/
+smras pa thams cad kyaG dpe yin te/ ji ltar she na/ re shig skye Hdi don med gaG phyir skye ba yod na rga Zi daG/
+nad daG sdug bsGal bsad daG bciGs la sogs paHi dgra dag yod/
+ces bya ba bshin no//
+bZad pa/ gaG la Hchi ba yod paHi skye ba gaG yin pa de la yaG Hchi ba sGon du Hgro ba kho na yin pa sJam/ gal te de Hchi ba sGon du Hgro ba ma yin na ni Hkhor ba la thog ma yod par thal bar Hgyur bas/ de yaG mi Hdod de/ deHi phyir Hkhor ba la thog ma daG tha ma med paHi phyir skye ba sGa la Hchi ba Hphyir ba Ham Hchi ba sGa la skye ba HphyiHo she bya bar brjod par mi nus so// Hog nas kyaG/
+　　　　　　gal te skye ba sGa gyur la/
+　　　　　　rga Zi Hphyi ba yin na ni/
+　　　　　　rga zi med par skye ba daG/
+　　　　　　ma Zi bar yaG skye bar Hgyur/
+shes HbyuG Go//
+　　　smras pa Ho na
+　　　　　　gal te Hjigs maG skye ba med na don med de mi HbyuG/
+　　　　　　ziG skyes med na nags me rluG gis skyel bar mi Hgyur bshin/
+shes bya ba Hdi ni dpe gshan yin no//
+　　　bZad pa/ Hdi la khyad par ci yod/
+smras pa/ khyad par ni Hdi yin te/ gaG gi phyir Hdi la Hgag pa sGon du Hgro baHi skye ba med do// Hdi ltar Zin ljon pa gshan du Hgags la Hdir skyes pa med paHi phyir ro//
+　　　bZad pa/ Hdi la yaG sa bon Hgag pa sGon du Hgro ba las skye bas de yaG Hgag pa sGon du Hgro ba kho na las skye ba yin no//
+　　　Hdir smras pa/ de ni mi Hdra ste/ ciHi phyir she na/ gshan kho na Hgags la gshan kho na skye baHi phyir te/ Hdi ltar Hdi la sa bon Hgags la myu gu skyeHi myu gu Jid Hgags la myu gu Jid mi skye bas deHi phyir de ni mi HdraHo//
+　　　bZad pa/ de ni Hdra ba kho na ste/ ciHi phyir she na/ Hdi ltar skye ba daG Hchi ba gJis kyaG gaG kho na zi ba de Jid skye ba ma yin paHi phyir te/（181.2.1）gal te gaG kho na Hchi ba de Jid skye bar Hgyur na ni de lta na rtag paHi skyon du thal bar（161a.1）Hgyur te/ lha gaG yin pa de yaG lha kho nar Hgyur la/ dud hgro gaG yin pa de yaG dud Hgro kho nar Hgyur ro//
+　　　de lta yin na las daG Gon moGs pas byas paHi skye ba daG Hgro ba Hkhrul pa med par Hgyur bas de yaG mi Hdod de/ des na gaG kho na Hchi ba de Jid skye bar Hgyur ro// shes bya ba de brjod par mi nus pas deHi phyir de ni Hdra ba kho naHo//
+　　　Hdi la gshan kho na Hgag/ gshan kho na skyeHo shes pa gaG yin pa de yaG mi rigs te/ gal te sa bon daG myu gu gJis gshan Jid yin par gyur na de gJis la rgyu daG Hbras buHi tha sJad kyaG med par Hgyur ba shig na tha sJad yod pas deHi phyir de gJis gshan Jid ma yin no// gshan yaG Hdi na smra ba po dag sa bon btab nas bdag gis Zin ljon pa Hdi btsugs/ bdag gis bu Hdi bskyed de/ Zin ljon pa Hdi ni bdag giHo// bu Hdi ni bdag giHo shes zer ro// de la gal te sa bon daG zin ljon pa daG bu dag gshan Jid yin par gyur na Hjig rten gyi tha sJad de dag mi srid par Hgyur ba shig na srid pas deHi phyir sa bon daG myu gu gJis gshan Jid du brjod par mi nus te/ Hog nas kyaG 
+　　　　　　gshan ni gshan la brten te gshan/
+　　　　　　gshan med gshan las gshan mi Hgyur/
+　　　　　　gaG la brten te gaG yin pa/
+　　　　　　de ni de las gshan mi Hthad/
+ces HbyuG Go//
+　　　Hdir smras pa/ de lta na yaG sa bon yod pa Jid yin na Hgag par Hgyur gyis med na mi Hgyur bas Hdir yaG skye ba sGa la Hgag pa Hphyi bar Hgyur ro//
+　　　bZad pa/ Hdi ltar sa bon de la yaG sa bon Hgag pa sGon du Hgro ba Jid yod de/ ciHi phyir she na/ Hdi ltar myu du las kyaG ZiG ljon pa gshan ma yin la ZiG ljon pa las kyaG sa bon gshan ma yin paHi phyir sa bon Hgag pa sGon du Hgro ba las myu gu skye la/ sa bon（182.1.1）yaG sa bon Hgag pa sGon du Hgro ba las skye ste/ de ltar slob dpon Hphags pa lhas kyaG/
+　　　　　　sa bon dpe ni ji lta bar/
+　　　　　　de la thog ma yod ma yin/
+　　　　　　de ltar rgyu daG mi ldan las/
+　　　　　　skye baHaG srid par mi Hgyur ro//
+shes gsuGs so//
+　　　deHi phyir skye ba daG Hgag pa gJis la sGa phyiHi rnam par bshag pa med pas ciHi phyir（161b.1）Hgag pa sGar bkag la skye ba phyis bkag ced bya ba de klan kar mi ruG Go// de gJis la sGa phyiHi rnam par bshag pa med pa de Jid rab tu bstan paHi phyir slob dpon gyis Hdir Hgag pa sGar gzuG ba mdsad la skye ba phyis brtags so//
+
